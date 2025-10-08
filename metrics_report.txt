@@ -1,0 +1,77 @@
+
+================================================================================
+                    WORKFORCE OPTIMIZATION ML MODELS
+                         PERFORMANCE METRICS REPORT
+================================================================================
+
+Date: 2025-10-07 15:17:58
+
+--------------------------------------------------------------------------------
+                         SUITABILITY MODEL METRICS
+--------------------------------------------------------------------------------
+Model Type: LightGBM Regressor
+Training Samples: 1600
+Test Samples: 400
+
+Test Set Performance:
+  - R² Score:  0.9961
+  - RMSE:      0.7348
+  - MAE:       0.4909
+
+Train Set Performance:
+  - R² Score:  0.9985
+  - RMSE:      0.4453
+  - MAE:       0.3335
+
+Top 5 Important Features:
+  10. efficiency_score: 552.00
+  1. skill_similarity_score: 544.00
+  9. workload_ratio: 471.00
+  2. experience_years: 336.00
+  4. experience_difference: 336.00
+
+
+--------------------------------------------------------------------------------
+                         WORKLOAD MODEL METRICS
+--------------------------------------------------------------------------------
+Model Type: LightGBM Regressor
+Training Samples: 1600
+Test Samples: 400
+
+Test Set Performance:
+  - R² Score:  0.9716
+  - RMSE:      2.0060 hours
+  - MAE:       1.2457 hours
+
+Train Set Performance:
+  - R² Score:  0.9967
+  - RMSE:      0.6604 hours
+  - MAE:       0.5147 hours
+
+--------------------------------------------------------------------------------
+                            ASSIGNMENT STATISTICS
+--------------------------------------------------------------------------------
+Total Tasks: 40
+Tasks Assigned: 40
+Unique Employees Assigned: 34
+Average Suitability Score: 59.12
+Average Predicted Hours: 14.50
+
+Assignments by Priority:
+  - Critical: 9 tasks
+  - High: 13 tasks
+  - Medium: 8 tasks
+  - Low: 10 tasks
+
+
+Assignments by Department:
+  - Mobile: 10 tasks
+  - Platform: 8 tasks
+  - Engineering: 5 tasks
+  - Research: 5 tasks
+  - Data: 4 tasks
+
+
+================================================================================
+                              END OF REPORT
+================================================================================

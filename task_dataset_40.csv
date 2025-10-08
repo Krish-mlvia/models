@@ -1,0 +1,41 @@
+TaskID,TaskName,Department,Description,Required_Skills,Difficulty,Estimated_Hours,Deadline_Days,Priority,Required_Experience
+5001,Enhance Security Module,Engineering,"Enhance Security Module task for Engineering department using Kafka, CI/CD technologies.","Kafka, CI/CD",Hard,27,10,Medium,3
+5002,Setup CI/CD in Jenkins,Engineering,"Setup CI/CD in Jenkins task for Engineering department using Flask, PyTorch, Redis technologies.","Flask, PyTorch, Redis",Very Hard,22,4,Low,2
+5003,Fix Frontend Bugs,Mobile,"Fix Frontend Bugs task for Mobile department using NumPy, Spring, CSS, Python, HTML technologies.","NumPy, Spring, CSS, Python, HTML",Moderate,29,25,Critical,4
+5004,Automate Unit Testing,Platform,"Automate Unit Testing task for Platform department using HTML, MongoDB, React technologies.","HTML, MongoDB, React",Very Hard,36,13,High,3
+5005,Integrate Payment Gateway,Infrastructure,"Integrate Payment Gateway task for Infrastructure department using CSS, Java, CI/CD, Selenium technologies.","CSS, Java, CI/CD, Selenium",Easy,22,14,High,10
+5006,Setup CI/CD in Jenkins,Engineering,"Setup CI/CD in Jenkins task for Engineering department using NumPy, Django, Microservices, JavaScript technologies.","NumPy, Django, Microservices, JavaScript",Very Hard,22,5,High,10
+5007,Optimize Database Query,Platform,"Optimize Database Query task for Platform department using React, Docker, Spring technologies.","React, Docker, Spring",Moderate,36,27,High,2
+5008,Implement Cache Layer,Platform,"Implement Cache Layer task for Platform department using Kafka, Spring, Microservices technologies.","Kafka, Spring, Microservices",Hard,30,8,High,6
+5009,Setup CI/CD Pipeline,Mobile,"Setup CI/CD Pipeline task for Mobile department using Docker, Spring, GraphQL, Microservices, Pandas technologies.","Docker, Spring, GraphQL, Microservices, Pandas",Moderate,20,20,Medium,3
+5010,Design Landing Page,Platform,"Design Landing Page task for Platform department using CSS, MongoDB technologies.","CSS, MongoDB",Hard,28,29,Low,4
+5011,Enhance Logging System,Data,"Enhance Logging System task for Data department using Docker, GraphQL, Selenium, Angular, Spring technologies.","Docker, GraphQL, Selenium, Angular, Spring",Easy,20,9,High,4
+5012,Migrate Legacy System,QA,"Migrate Legacy System task for QA department using AWS, Flask, Angular, PyTorch, TensorFlow technologies.","AWS, Flask, Angular, PyTorch, TensorFlow",Hard,20,26,Critical,10
+5013,Integrate Payment Gateway,Research,"Integrate Payment Gateway task for Research department using CSS, Kafka, Kubernetes technologies.","CSS, Kafka, Kubernetes",Easy,25,30,Low,3
+5014,Enhance Error Handling,Engineering,"Enhance Error Handling task for Engineering department using Pandas, Python, Kafka, CI/CD technologies.","Pandas, Python, Kafka, CI/CD",Very Hard,8,15,Critical,9
+5015,Enhance Security Module,Platform,"Enhance Security Module task for Platform department using Kubernetes, Node.js, Selenium, Python technologies.","Kubernetes, Node.js, Selenium, Python",Hard,10,27,High,2
+5016,Implement Search Feature,Mobile,"Implement Search Feature task for Mobile department using Angular, AWS, HTML technologies.","Angular, AWS, HTML",Moderate,19,19,Low,5
+5017,Automate Unit Testing,Mobile,"Automate Unit Testing task for Mobile department using React, AWS technologies.","React, AWS",Easy,15,22,High,8
+5018,Optimize Model Performance,QA,"Optimize Model Performance task for QA department using JavaScript, HTML, Pandas, Angular, Kafka technologies.","JavaScript, HTML, Pandas, Angular, Kafka",Easy,26,10,Low,2
+5019,Create Admin Panel,Mobile,"Create Admin Panel task for Mobile department using Microservices, SQL, Docker technologies.","Microservices, SQL, Docker",Moderate,16,11,Critical,4
+5020,Implement Role-based Access,Infrastructure,"Implement Role-based Access task for Infrastructure department using MongoDB, Python technologies.","MongoDB, Python",Very Hard,12,6,Medium,4
+5021,Add Dark Mode UI,Mobile,"Add Dark Mode UI task for Mobile department using Microservices, GraphQL technologies.","Microservices, GraphQL",Moderate,35,21,Medium,1
+5022,Implement User Authentication,QA,"Implement User Authentication task for QA department using Spring, Kafka, TensorFlow technologies.","Spring, Kafka, TensorFlow",Easy,22,4,High,2
+5023,Implement Notification System,Mobile,"Implement Notification System task for Mobile department using CSS, Kubernetes, Django, React, Kafka technologies.","CSS, Kubernetes, Django, React, Kafka",Moderate,24,26,Critical,4
+5024,Fix Cross-browser Issues,Data,"Fix Cross-browser Issues task for Data department using Java, Docker technologies.","Java, Docker",Very Hard,12,16,Critical,1
+5025,Add Multi-language Support,Research,"Add Multi-language Support task for Research department using Angular, Kubernetes, Node.js, Spring, Selenium technologies.","Angular, Kubernetes, Node.js, Spring, Selenium",Easy,19,10,Medium,4
+5026,Refactor Backend Code,Research,"Refactor Backend Code task for Research department using JavaScript, HTML technologies.","JavaScript, HTML",Easy,24,17,Low,1
+5027,Refactor Backend Code,QA,"Refactor Backend Code task for QA department using Java, Node.js, Docker, Python, Spring technologies.","Java, Node.js, Docker, Python, Spring",Very Hard,14,18,Critical,4
+5028,Implement Cache Layer,Data,"Implement Cache Layer task for Data department using SQL, Django, Java technologies.","SQL, Django, Java",Very Hard,27,25,Critical,3
+5029,Add Dark Mode UI,Platform,"Add Dark Mode UI task for Platform department using NumPy, TensorFlow technologies.","NumPy, TensorFlow",Easy,19,26,High,1
+5030,Add Email Verification,Research,"Add Email Verification task for Research department using Redis, JavaScript technologies.","Redis, JavaScript",Moderate,21,4,Low,3
+5031,Refactor Backend Code,Infrastructure,"Refactor Backend Code task for Infrastructure department using Redis, JavaScript technologies.","Redis, JavaScript",Easy,19,21,Medium,10
+5032,Improve API Response Time,Platform,"Improve API Response Time task for Platform department using Spring, Docker, Angular technologies.","Spring, Docker, Angular",Hard,38,11,Medium,6
+5033,Optimize Model Performance,Infrastructure,"Optimize Model Performance task for Infrastructure department using Redis, NumPy, React, JavaScript, Pandas technologies.","Redis, NumPy, React, JavaScript, Pandas",Hard,23,27,Low,1
+5034,Implement Notification System,Mobile,"Implement Notification System task for Mobile department using AWS, SQL, Node.js technologies.","AWS, SQL, Node.js",Hard,15,7,High,2
+5035,Develop Analytics Dashboard,Research,"Develop Analytics Dashboard task for Research department using Kafka, React, Angular, Spring technologies.","Kafka, React, Angular, Spring",Hard,30,22,Low,9
+5036,Enhance Security Module,Engineering,"Enhance Security Module task for Engineering department using Microservices, MongoDB, Django technologies.","Microservices, MongoDB, Django",Moderate,14,11,High,10
+5037,Implement Search Feature,Mobile,"Implement Search Feature task for Mobile department using Spring, Java, Python, MongoDB, HTML technologies.","Spring, Java, Python, MongoDB, HTML",Very Hard,25,11,Low,2
+5038,Migrate Legacy System,Platform,"Migrate Legacy System task for Platform department using Pandas, Python, React, JavaScript, Microservices technologies.","Pandas, Python, React, JavaScript, Microservices",Hard,8,8,Critical,9
+5039,Develop Mobile UI,Mobile,"Develop Mobile UI task for Mobile department using Kubernetes, Angular, Java technologies.","Kubernetes, Angular, Java",Easy,13,29,High,10
+5040,Optimize Model Performance,Data,"Optimize Model Performance task for Data department using AWS, HTML technologies.","AWS, HTML",Easy,25,14,Medium,4

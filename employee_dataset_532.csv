@@ -1,0 +1,533 @@
+EmployeeID,Name,Role,Department,Location,Education,Salary_INR,Experience_Years,Performance_1_10,Current_Workload_Tasks,Availability_Hours_per_Week,Skills,Certifications,LastProjectSuccessRate,suitability_score
+1000,Krish Sharma,Product Engineer,QA,Chennai,B.E.,1349014,4,7,2,39,"Django, Java, JavaScript, Node.js, NumPy",AWS Certified,0.5,35.34482758620689
+1001,Karan Kaur,Android Developer,Mobile,Bangalore,B.Sc,1052159,0,6,2,33,"CI/CD, GCP, Kafka, Pandas, Python",Scrum Master,0.82,47.41379310344827
+1002,Arjun Bhat,QA Engineer,QA,Pune,B.E.,1638713,0,9,0,45,"Django, Node.js, NumPy, Postgres, React, TensorFlow",Azure Certified,0.65,56.89655172413792
+1003,Ritika Kapoor,Software Engineer,Infrastructure,Gurgaon,B.Sc,1294274,1,6,2,37,"ElasticSearch, Node.js, Selenium, TensorFlow",None,0.48,23.275862068965523
+1004,Karan Singh,Software Engineer,Infrastructure,Chennai,BCA,1236666,1,6,0,38,"CSS, Django, GCP, MongoDB, Node.js, Spring",Kubernetes Cert,0.81,56.034482758620705
+1005,Priya Gupta,QA Engineer,QA,Chennai,MCA,1399396,1,8,3,27,"Angular, Docker, GCP, MongoDB, NoSQL, Node.js",Azure Certified,0.63,32.758620689655174
+1006,Simran Kaur,Technical Lead,QA,Bangalore,B.E.,820464,2,8,3,27,"Angular, CI/CD, PyTorch, TypeScript",GCP Certified,0.9,57.758620689655174
+1007,Ankita Reddy,Fullstack Developer,Infrastructure,Gurgaon,M.S.,1148511,4,8,7,22,"CI/CD, ElasticSearch, Flask, Kafka, Kubernetes, SQL, Spring",Azure Certified,0.52,17.241379310344826
+1008,Ankita Bhat,iOS Developer,Data,Delhi,B.E.,946974,0,6,2,39,"CSS, Flask, HTML, Node.js, React",GCP Certified,0.9,59.48275862068965
+1009,Arjun Bhat,iOS Developer,Engineering,Noida,M.S.,927984,5,8,4,29,"CI/CD, ElasticSearch, GraphQL, Kubernetes, Microservices, Python, REST, React",Scrum Master,0.83,56.89655172413791
+1010,Shivam Reddy,Frontend Developer,QA,Noida,B.E.,868100,4,6,3,28,"CSS, Kubernetes, Microservices, NumPy, Postgres, Python, React",Kubernetes Cert,0.85,50.86206896551724
+1011,Rahul Bose,iOS Developer,Platform,Pune,M.Tech,1661411,4,10,1,34,"Bootstrap, HTML, Java, Python, TypeScript",AWS Certified,0.66,56.896551724137936
+1012,Priya Joshi,Fullstack Developer,Engineering,Chennai,B.Sc,1226114,1,7,3,36,"Angular, HTML, Node.js, Spring",GCP Certified,1.0,68.9655172413793
+1013,Divya Iyer,Backend Developer,QA,Kolkata,BCA,1447120,6,5,1,35,"AWS, GraphQL, HTML, MongoDB, NumPy, Redis, SQL, TypeScript",Azure Certified,0.93,67.24137931034483
+1014,Isha Bose,Machine Learning Engineer,Engineering,Chennai,B.E.,1229123,5,8,2,37,"GCP, GraphQL, Java, Python",AWS Certified,0.6,47.41379310344827
+1015,Vivaan Kaur,Frontend Developer,Engineering,Delhi,B.Tech,894278,1,5,2,39,"Angular, CI/CD, CSS, Django, Docker, ElasticSearch, HTML, Selenium",None,1.0,66.37931034482759
+1016,Divya Kaur,Machine Learning Engineer,Research,Noida,B.E.,1264482,4,5,4,23,"Django, NumPy, Pandas, Redis",OCI Certified,0.73,31.034482758620666
+1017,Vivaan Kumar,Software Engineer,Data,Delhi,BCA,1174750,1,9,3,32,"Docker, Kafka, MongoDB, Spring",OCI Certified,0.96,68.9655172413793
+1018,Arjun Kapoor,Machine Learning Engineer,Platform,Hyderabad,M.S.,967399,4,8,3,26,"Django, Flask, JavaScript, Microservices, NumPy, Python, React, TensorFlow",GCP Certified,0.8,51.72413793103448
+1019,Sanya Malhotra,Machine Learning Engineer,Platform,Noida,B.Tech,840874,4,7,3,32,"Kubernetes, Microservices, Python, Selenium, TensorFlow",OCI Certified,0.93,64.65517241379311
+1020,Simran Malhotra,Backend Developer,Platform,Mumbai,B.E.,1360901,1,6,2,37,"CSS, REST, React, TypeScript",Scrum Master,0.83,53.44827586206895
+1021,Pooja Gupta,Software Engineer,Mobile,Hyderabad,BCA,766955,4,6,5,30,"Angular, Docker, Flask, JavaScript, PyTorch",None,0.72,37.931034482758605
+1022,Aditya Bhat,Technical Lead,Mobile,Remote,B.Sc,1019581,4,6,8,19,"AWS, Flask, Kubernetes, MongoDB, Spring, TypeScript",GCP Certified,0.83,32.75862068965516
+1023,Rahul Das,QA Engineer,Research,Hyderabad,B.Tech,834944,4,6,2,32,"AWS, Angular, CSS, Django, Kubernetes, Postgres, Spring",AWS Certified,0.9,60.34482758620689
+1024,Siddharth Nair,DevOps Engineer,Platform,Gurgaon,BCA,1602950,4,6,3,31,"Angular, Bootstrap, GraphQL, Jest, Microservices, Python, React, Spring",AWS Certified,0.93,60.34482758620691
+1025,Krish Iyer,Backend Developer,QA,Mumbai,B.Sc,1128122,3,7,2,31,"AWS, CSS, GraphQL, HTML, Kubernetes",Azure Certified,1.0,69.82758620689656
+1026,Vivaan Singh,Technical Lead,Data,Mumbai,B.Tech,1643955,0,7,6,21,"GraphQL, Kubernetes, NoSQL, Spring",Kubernetes Cert,0.85,36.20689655172413
+1027,Isha Iyer,Product Engineer,Data,Kolkata,B.Tech,1215189,0,6,2,38,"Angular, ElasticSearch, JavaScript, SQL",None,0.71,42.241379310344826
+1028,Simran Mehta,Data Engineer,Platform,Bangalore,M.Tech,1251954,3,7,1,37,"AWS, Flask, GraphQL, JavaScript, REST, Redis",AWS Certified,0.6,42.24137931034484
+1029,Priya Iyer,Data Engineer,Mobile,Pune,B.E.,974771,1,8,2,38,"Docker, GraphQL, Java, Pandas, Postgres",Azure Certified,0.73,52.586206896551715
+1030,Arjun Kumar,Data Engineer,Research,Bangalore,BCA,1354511,6,8,6,19,"GCP, Microservices, MongoDB, Pandas, Postgres, PyTorch, SQL",Scrum Master,0.63,29.310344827586224
+1031,Siddharth Kaur,Software Engineer,Infrastructure,Chennai,M.S.,749769,0,6,2,38,"Angular, Bootstrap, CI/CD, Kubernetes, Postgres, TypeScript",OCI Certified,0.81,50.86206896551725
+1032,Simran Reddy,Software Engineer,Engineering,Mumbai,B.E.,1076172,0,8,2,36,"AWS, Django, ElasticSearch, JavaScript, Jest, Kubernetes, Postgres, PyTorch",Azure Certified,0.69,45.68965517241378
+1033,Sanya Shah,Android Developer,Engineering,Noida,B.Sc,1403879,3,10,4,23,"Bootstrap, JavaScript, Kubernetes, NumPy, Python",Scrum Master,1.0,69.82758620689653
+1034,Simran Patel,QA Engineer,Data,Hyderabad,MCA,807626,4,5,1,38,"Flask, GraphQL, Jest, Kubernetes, SQL, TypeScript",OCI Certified,1.0,72.41379310344828
+1035,Ananya Chopra,Product Engineer,QA,Kolkata,B.E.,996775,0,7,1,40,"Jest, Pandas, Postgres, PyTorch, TensorFlow",None,0.92,67.24137931034483
+1036,Aarav Joshi,DevOps Engineer,Platform,Noida,BCA,821735,9,8,4,25,"Django, Docker, GCP, GraphQL, Kafka, Kubernetes, Microservices, TypeScript",Scrum Master,0.76,54.31034482758619
+1037,Arjun Singh,DevOps Engineer,Mobile,Remote,M.Tech,1761602,0,3,1,38,"Docker, GCP, Jest, MongoDB",GCP Certified,0.65,28.448275862068968
+1038,Aarav Verma,Fullstack Developer,Data,Remote,BCA,1102681,0,8,8,14,"Microservices, MongoDB, Pandas, TensorFlow",OCI Certified,0.52,1.7241379310344918
+1039,Neha Kaur,Backend Developer,Infrastructure,Bangalore,BCA,1584162,3,10,4,24,"Bootstrap, GCP, NumPy, Postgres",OCI Certified,0.51,28.448275862068954
+1040,Vivaan Iyer,Fullstack Developer,Research,Hyderabad,M.S.,1233090,1,6,3,28,"Bootstrap, CSS, Kafka, Microservices, TypeScript",OCI Certified,0.71,33.62068965517241
+1041,Simran Das,Backend Developer,Infrastructure,Gurgaon,M.S.,1093353,4,8,3,34,"CI/CD, Docker, Flask, HTML, Spring, TypeScript",OCI Certified,0.85,62.931034482758626
+1042,Aditya Joshi,Fullstack Developer,QA,Delhi,M.Tech,1761127,4,9,1,39,"Angular, Flask, Kafka, MongoDB, Node.js, Redis, SQL, Spring",GCP Certified,0.83,72.41379310344828
+1043,Aditya Bhat,Data Engineer,QA,Kolkata,M.S.,1521312,1,8,2,32,"AWS, Kafka, MongoDB, Pandas, React, Selenium, TensorFlow",Kubernetes Cert,0.93,64.65517241379311
+1044,Aarav Chaudhary,Data Engineer,Data,Bangalore,M.Tech,1043044,7,8,1,40,"Docker, Flask, GCP, Pandas, Spring, TensorFlow",OCI Certified,0.74,67.24137931034483
+1045,Divya Sharma,Data Engineer,QA,Noida,MCA,1495207,9,7,1,36,"Java, Microservices, Node.js, PyTorch, Spring",Kubernetes Cert,1.0,86.20689655172416
+1046,Sanya Mehta,Machine Learning Engineer,Platform,Bangalore,M.Tech,898195,3,6,3,35,"AWS, Microservices, MongoDB, NoSQL, REST, TensorFlow, TypeScript",Azure Certified,1.0,68.10344827586206
+1047,Sanya Kapoor,Frontend Developer,Data,Bangalore,MCA,1321375,10,8,3,34,"GCP, Java, JavaScript, REST, React, Redis, TensorFlow, TypeScript",Scrum Master,0.87,74.99999999999999
+1048,Aarav Kaur,Fullstack Developer,Research,Bangalore,B.Sc,1367733,0,8,2,29,"AWS, Docker, Flask, REST, Spring",OCI Certified,0.75,44.827586206896555
+1049,Shivam Nair,Backend Developer,Mobile,Remote,MCA,1337532,7,5,4,25,"Django, Java, Jest, NoSQL",Azure Certified,0.96,57.75862068965515
+1050,Ankita Chopra,Data Engineer,Infrastructure,Chennai,B.Tech,1194295,0,6,1,39,"Django, Docker, GraphQL, HTML, Jest, NumPy, PyTorch, React",Scrum Master,0.85,56.896551724137936
+1051,Ankita Verma,QA Engineer,Mobile,Noida,MCA,951831,4,8,3,31,"AWS, Angular, CSS, GraphQL, NumPy, Python",Scrum Master,0.81,56.896551724137936
+1052,Divya Kumar,Data Engineer,QA,Gurgaon,MCA,630976,0,8,4,31,"Bootstrap, CI/CD, NumPy, Postgres, REST",OCI Certified,0.69,37.931034482758605
+1053,Sanya Chaudhary,DevOps Engineer,QA,Chennai,BCA,909867,16,6,3,31,"CI/CD, Docker, Kafka, Microservices",None,1.0,87.06896551724138
+1054,Ritika Chopra,QA Engineer,Engineering,Gurgaon,BCA,1856941,1,6,2,30,"AWS, Bootstrap, HTML, Postgres, PyTorch, Spring",Azure Certified,0.68,34.482758620689665
+1055,Shivam Shah,Product Engineer,QA,Kolkata,B.Tech,798647,1,6,2,31,"AWS, CI/CD, Docker, ElasticSearch, HTML, MongoDB, Node.js, TensorFlow",GCP Certified,0.79,44.827586206896555
+1056,Divya Malhotra,Machine Learning Engineer,Research,Bangalore,B.Tech,1422589,2,9,2,35,"Docker, GCP, GraphQL, PyTorch, SQL, Selenium",Azure Certified,1.0,78.44827586206897
+1057,Divya Iyer,Android Developer,QA,Noida,MCA,1065772,2,6,2,37,"Flask, GraphQL, Microservices, REST, React, Redis, SQL, Spring",Kubernetes Cert,1.0,69.82758620689656
+1058,Karan Reddy,Frontend Developer,Infrastructure,Kolkata,BCA,721672,0,6,8,19,"AWS, Bootstrap, CI/CD, MongoDB, REST",None,0.59,5.172413793103445
+1059,Rahul Kumar,Fullstack Developer,QA,Chennai,M.Tech,1360648,3,5,1,33,"CI/CD, JavaScript, Jest, Python, Spring",AWS Certified,0.99,65.51724137931035
+1060,Simran Joshi,Product Engineer,Platform,Gurgaon,B.Tech,1582639,1,7,2,39,"GraphQL, Kafka, REST, Selenium",GCP Certified,0.65,43.103448275862064
+1061,Vivaan Kapoor,Machine Learning Engineer,Engineering,Hyderabad,M.S.,1119272,0,8,2,30,"Angular, Bootstrap, HTML, PyTorch, React, SQL, Selenium",AWS Certified,1.0,67.24137931034481
+1062,Siddharth Kumar,Android Developer,Research,Noida,B.Sc,1517527,1,5,3,33,"Bootstrap, GCP, Kafka, Microservices, NumPy, SQL, Selenium, TensorFlow",OCI Certified,0.76,38.79310344827586
+1063,Rahul Chaudhary,iOS Developer,Engineering,Remote,MCA,1360443,2,8,3,30,"AWS, Kubernetes, NoSQL, Node.js",GCP Certified,0.9,60.34482758620689
+1064,Arjun Iyer,Frontend Developer,Platform,Bangalore,M.S.,1198140,1,7,2,37,"Flask, JavaScript, Microservices, REST, Redis, SQL, Selenium",Kubernetes Cert,1.0,71.55172413793106
+1065,Isha Singh,Technical Lead,Platform,Mumbai,BCA,869444,2,6,5,22,"Angular, CI/CD, Flask, HTML, MongoDB, NumPy, Spring, TypeScript",Scrum Master,0.88,41.37931034482759
+1066,Rohan Singh,Software Engineer,Platform,Mumbai,B.Sc,955350,0,6,1,41,"Flask, GCP, Kafka, Microservices, MongoDB, Redis, SQL, Selenium",Azure Certified,0.62,38.79310344827587
+1067,Pooja Iyer,Machine Learning Engineer,Data,Hyderabad,B.Sc,851902,0,9,1,32,"Java, Kubernetes, NumPy, TypeScript",AWS Certified,0.77,54.31034482758621
+1068,Siddharth Chaudhary,iOS Developer,Engineering,Mumbai,B.Sc,1455406,4,6,1,39,"Bootstrap, Kafka, Postgres, REST",Azure Certified,1.0,76.72413793103449
+1069,Arjun Chaudhary,Data Engineer,Infrastructure,Gurgaon,B.Tech,1106783,1,9,0,42,"GraphQL, HTML, NoSQL, NumPy, Pandas, React, Redis",GCP Certified,0.76,65.51724137931033
+1070,Ananya Bhat,Product Engineer,Data,Mumbai,MCA,1320066,6,6,1,33,"JavaScript, Microservices, NoSQL, Node.js, REST, React, Spring",Scrum Master,1.0,74.99999999999999
+1071,Neha Bose,Software Engineer,Infrastructure,Kolkata,M.S.,462976,1,6,0,43,"Docker, ElasticSearch, Jest, MongoDB, React, TensorFlow, TypeScript",OCI Certified,0.59,41.37931034482759
+1072,Vivaan Patel,DevOps Engineer,Mobile,Pune,M.Tech,731848,1,7,3,29,"CSS, Flask, HTML, Java, Jest, PyTorch, TypeScript",Kubernetes Cert,1.0,62.931034482758626
+1073,Arjun Joshi,Android Developer,Engineering,Kolkata,M.S.,1504360,4,6,2,30,"Flask, GCP, Microservices, SQL",OCI Certified,0.77,47.41379310344827
+1074,Rahul Bose,Product Engineer,QA,Noida,BCA,1196632,1,5,1,36,"Angular, CI/CD, Django, Docker, Microservices, MongoDB, REST",None,0.73,42.24137931034484
+1075,Pooja Mehta,Frontend Developer,QA,Noida,M.Tech,1012202,1,6,2,31,"CI/CD, ElasticSearch, HTML, NumPy, Pandas, Python, SQL, Selenium",Kubernetes Cert,0.67,34.482758620689665
+1076,Divya Mehta,Machine Learning Engineer,Mobile,Gurgaon,M.Tech,1439245,0,7,6,21,"Django, Microservices, NumPy, Redis, TensorFlow, TypeScript",GCP Certified,0.72,24.999999999999986
+1077,Ankita Chopra,Fullstack Developer,Research,Noida,B.Tech,899386,2,5,1,37,"CSS, GraphQL, Pandas, PyTorch, REST, TensorFlow",Kubernetes Cert,0.81,51.7241379310345
+1078,Rohan Malhotra,Software Engineer,Platform,Kolkata,B.Sc,858257,2,7,1,33,"Bootstrap, Django, GCP, Kafka, Kubernetes, Microservices",AWS Certified,1.0,71.55172413793103
+1079,Rohan Bhat,Technical Lead,Platform,Hyderabad,M.S.,616518,2,8,1,40,"GraphQL, NoSQL, Node.js, NumPy, PyTorch, REST",Kubernetes Cert,0.65,50.86206896551724
+1080,Simran Chopra,QA Engineer,Infrastructure,Gurgaon,BCA,1358941,2,9,5,27,"Angular, Docker, ElasticSearch, Flask, GraphQL, JavaScript, SQL, TypeScript",AWS Certified,0.9,57.75862068965515
+1081,Sanya Kumar,Technical Lead,Infrastructure,Hyderabad,M.S.,1143238,4,8,3,35,"Java, JavaScript, Jest, React, TypeScript",Azure Certified,0.9,68.10344827586206
+1082,Priya Nair,Data Engineer,Platform,Chennai,B.Sc,1117787,3,8,5,20,"Bootstrap, JavaScript, Jest, MongoDB, NoSQL, NumPy, Postgres",None,0.85,45.6896551724138
+1083,Siddharth Malhotra,iOS Developer,Platform,Chennai,M.S.,1134270,1,8,1,37,"GCP, Kafka, Kubernetes, Microservices, PyTorch, Python",Azure Certified,0.81,60.34482758620692
+1084,Simran Gupta,Frontend Developer,Data,Delhi,B.Sc,1564417,4,6,2,35,"Bootstrap, Django, Kubernetes, Microservices, NumPy, SQL",OCI Certified,0.92,64.65517241379311
+1085,Divya Kumar,Fullstack Developer,Data,Remote,M.Tech,1502968,5,7,3,29,"Bootstrap, GraphQL, Java, MongoDB, Pandas, Python, Selenium, Spring",None,0.74,47.41379310344829
+1086,Vivaan Shah,Product Engineer,Data,Mumbai,BCA,1877159,2,6,4,25,"GCP, Kubernetes, MongoDB, Redis, Spring",Kubernetes Cert,0.86,43.9655172413793
+1087,Krish Verma,DevOps Engineer,Research,Gurgaon,B.Tech,1763039,1,6,5,27,"AWS, Bootstrap, ElasticSearch, Microservices, NoSQL, Node.js, SQL, Spring",GCP Certified,0.72,30.172413793103445
+1088,Karan Mehta,Android Developer,QA,Kolkata,B.Sc,1933726,0,7,6,26,"HTML, Kubernetes, NoSQL, PyTorch, REST, SQL",Kubernetes Cert,0.71,28.448275862068968
+1089,Ananya Kumar,Machine Learning Engineer,Engineering,Pune,BCA,1051383,1,6,1,36,"ElasticSearch, Kubernetes, Node.js, PyTorch, Python",None,0.94,63.79310344827586
+1090,Krish Das,QA Engineer,Infrastructure,Mumbai,B.Sc,1619149,1,6,2,32,"CI/CD, Django, Docker, ElasticSearch, GCP, Jest, Python",Azure Certified,0.92,56.896551724137936
+1091,Ritika Kaur,Technical Lead,Engineering,Gurgaon,MCA,1221995,1,9,2,31,"Flask, Java, Pandas, REST, SQL, Spring",OCI Certified,0.68,45.6896551724138
+1092,Krish Kumar,Fullstack Developer,Mobile,Pune,M.S.,1341506,1,5,0,35,"AWS, ElasticSearch, Kafka, Pandas, React, SQL, TypeScript",Scrum Master,0.96,62.931034482758626
+1093,Divya Shah,Data Engineer,QA,Bangalore,MCA,646528,3,7,2,29,"AWS, CSS, Flask, Kafka, NumPy, REST",Azure Certified,0.63,36.20689655172414
+1094,Krish Nair,Android Developer,Infrastructure,Delhi,B.Tech,938741,2,5,3,33,"CI/CD, Flask, GCP, MongoDB, NumPy, Pandas, REST",AWS Certified,0.55,22.413793103448267
+1095,Karan Shah,Software Engineer,Engineering,Delhi,B.E.,1410283,4,10,3,33,"AWS, Angular, GCP, GraphQL, SQL",Scrum Master,1.0,81.89655172413792
+1096,Ritika Sharma,DevOps Engineer,Research,Pune,B.E.,777746,3,6,1,33,"Angular, Flask, GraphQL, Kafka, Kubernetes, NumPy, Postgres, Python",Azure Certified,0.76,49.13793103448276
+1097,Siddharth Chaudhary,QA Engineer,Engineering,Pune,M.Tech,1507286,2,6,3,28,"Bootstrap, Flask, Pandas, Spring",Kubernetes Cert,0.71,35.34482758620689
+1098,Aditya Malhotra,Machine Learning Engineer,Research,Delhi,B.Sc,833362,0,8,4,27,"Django, ElasticSearch, GCP, Java, Jest, Kafka, PyTorch, REST",Scrum Master,0.76,40.517241379310335
+1099,Pooja Joshi,Machine Learning Engineer,Infrastructure,Bangalore,B.Tech,882741,1,7,2,31,"Django, Docker, GCP, JavaScript, NumPy, PyTorch, Redis",AWS Certified,0.69,39.655172413793096
+1100,Ananya Shah,Backend Developer,Engineering,Pune,M.Tech,699066,7,9,2,30,"AWS, GCP, Jest, Kubernetes, React, Selenium, TensorFlow, TypeScript",Scrum Master,0.75,61.20689655172413
+1101,Krish Iyer,Product Engineer,Research,Chennai,M.S.,1170952,5,8,2,38,"AWS, Bootstrap, CSS, GCP, GraphQL, MongoDB, Pandas",Kubernetes Cert,0.7,56.89655172413792
+1102,Krish Reddy,Data Engineer,QA,Mumbai,M.Tech,1036524,6,7,4,31,"Angular, Django, Node.js, NumPy, REST",Kubernetes Cert,1.0,71.55172413793103
+1103,Priya Mehta,Android Developer,Engineering,Remote,B.Sc,1401677,1,7,3,36,"AWS, Bootstrap, Flask, GraphQL, NumPy, Pandas, Postgres, TensorFlow",Scrum Master,0.77,49.13793103448276
+1104,Vivaan Joshi,iOS Developer,QA,Delhi,B.Tech,1236194,5,9,1,36,"AWS, CSS, Docker, Flask, GraphQL, NumPy, React, SQL",Azure Certified,0.95,81.89655172413792
+1105,Simran Nair,Frontend Developer,Research,Mumbai,B.Sc,1341779,1,9,3,35,"CI/CD, Java, Jest, NumPy, Postgres",Azure Certified,1.0,74.99999999999999
+1106,Priya Sharma,Backend Developer,Research,Pune,B.Sc,643564,10,6,1,34,"Angular, Django, ElasticSearch, Java, JavaScript, Kubernetes, SQL",OCI Certified,0.71,57.758620689655174
+1107,Sanya Das,QA Engineer,Platform,Delhi,M.Tech,778002,1,9,2,36,"Bootstrap, Jest, Node.js, React, SQL, TensorFlow",AWS Certified,0.67,49.13793103448276
+1108,Aditya Kapoor,Machine Learning Engineer,Infrastructure,Noida,M.S.,1228596,1,7,0,38,"CI/CD, Django, Kafka, Kubernetes, Pandas, Postgres, React, TensorFlow",OCI Certified,0.84,62.06896551724138
+1109,Krish Joshi,Technical Lead,Infrastructure,Remote,M.S.,1115815,6,6,2,39,"Bootstrap, Django, GCP, Java, JavaScript, Jest, MongoDB, Python",Azure Certified,1.0,78.44827586206897
+1110,Karan Mehta,DevOps Engineer,QA,Delhi,B.Tech,916593,0,10,0,37,"HTML, NumPy, Postgres, Spring",OCI Certified,0.89,74.13793103448276
+1111,Simran Kaur,Android Developer,Mobile,Delhi,B.Tech,728933,1,5,7,22,"Bootstrap, CSS, GCP, Java, JavaScript, Microservices, NumPy",Azure Certified,0.77,23.275862068965523
+1112,Ankita Bhat,iOS Developer,Data,Noida,M.Tech,1606454,0,8,1,38,"Java, NoSQL, PyTorch, TypeScript",Scrum Master,0.51,33.62068965517241
+1113,Ritika Das,Product Engineer,QA,Hyderabad,M.S.,1116150,0,6,1,33,"Bootstrap, Docker, NumPy, PyTorch",AWS Certified,0.89,55.17241379310346
+1114,Neha Joshi,Product Engineer,QA,Chennai,M.Tech,1606990,3,4,3,28,"Angular, Bootstrap, CSS, Flask, MongoDB",Scrum Master,0.64,24.13793103448276
+1115,Priya Nair,Product Engineer,Research,Pune,B.E.,1583378,4,7,4,32,"Kubernetes, MongoDB, Postgres, SQL",None,0.73,45.6896551724138
+1116,Rohan Singh,Backend Developer,Research,Gurgaon,M.S.,1134569,2,8,1,33,"Angular, CSS, Docker, GCP, JavaScript, Kafka, Microservices, TypeScript",Kubernetes Cert,0.72,50.86206896551724
+1117,Rahul Kapoor,iOS Developer,Engineering,Delhi,B.Sc,1622804,2,8,5,22,"JavaScript, Jest, Kafka, Microservices",AWS Certified,0.85,45.6896551724138
+1118,Priya Joshi,Frontend Developer,Infrastructure,Hyderabad,B.Sc,641595,6,7,4,23,"CI/CD, CSS, ElasticSearch, Java, Microservices, PyTorch, Selenium, TensorFlow",OCI Certified,0.66,35.344827586206904
+1119,Ankita Patel,QA Engineer,Mobile,Gurgaon,B.Sc,1117463,9,6,7,21,"Django, GraphQL, Kafka, Node.js, React",None,0.92,52.58620689655173
+1120,Arjun Verma,Fullstack Developer,Infrastructure,Gurgaon,M.S.,1249936,3,8,2,38,"AWS, Bootstrap, ElasticSearch, Microservices, MongoDB, NoSQL, Postgres, SQL",Scrum Master,0.87,68.10344827586206
+1121,Ananya Shah,Software Engineer,Research,Delhi,B.Tech,1352457,3,7,2,31,"Django, ElasticSearch, NumPy, Selenium, Spring, TensorFlow",Kubernetes Cert,0.58,33.62068965517241
+1122,Ritika Mehta,QA Engineer,Engineering,Remote,MCA,1438772,1,8,2,37,"Jest, Node.js, PyTorch, Redis, Spring",Azure Certified,1.0,75.00000000000001
+1123,Simran Chopra,Technical Lead,Research,Delhi,BCA,1738763,0,7,4,30,"Bootstrap, CSS, ElasticSearch, Node.js, NumPy",AWS Certified,0.89,50.86206896551724
+1124,Priya Joshi,Backend Developer,Platform,Delhi,BCA,1237546,1,7,1,42,"Angular, GCP, JavaScript, MongoDB, NumPy, SQL, Spring",Scrum Master,0.8,60.34482758620691
+1125,Krish Bose,Android Developer,Research,Kolkata,B.Tech,1738367,0,8,0,35,"Node.js, Pandas, REST, SQL, Spring, TensorFlow",Kubernetes Cert,0.64,43.96551724137932
+1126,Ritika Gupta,Product Engineer,Data,Bangalore,M.S.,1472248,3,7,6,27,"Docker, ElasticSearch, Kafka, PyTorch, Selenium, TensorFlow",OCI Certified,0.86,47.41379310344827
+1127,Siddharth Iyer,Fullstack Developer,QA,Gurgaon,BCA,1414502,5,8,2,39,"ElasticSearch, Kafka, Microservices, Selenium, TensorFlow",None,0.98,81.89655172413795
+1128,Pooja Bhat,Backend Developer,Research,Chennai,BCA,1187514,6,8,0,45,"CI/CD, Docker, Kubernetes, NumPy, Postgres, React, Spring, TypeScript",AWS Certified,0.83,79.31034482758619
+1129,Pooja Kumar,DevOps Engineer,Engineering,Pune,M.Tech,1154259,0,9,1,42,"CSS, Flask, JavaScript, Microservices, NumPy, Pandas, SQL",OCI Certified,0.85,69.82758620689656
+1130,Priya Sharma,Data Engineer,Engineering,Noida,B.Sc,1207393,1,7,3,32,"Docker, Flask, Node.js, Postgres, Python, TensorFlow",Azure Certified,0.88,55.17241379310346
+1131,Krish Reddy,Backend Developer,Platform,Bangalore,M.Tech,1214386,1,8,2,30,"HTML, JavaScript, Jest, Kafka, Python, REST, Spring",AWS Certified,0.83,54.31034482758619
+1132,Shivam Patel,Backend Developer,Mobile,Remote,B.Sc,1425571,2,8,0,42,"Bootstrap, Docker, Flask, Java, React, SQL, Selenium",OCI Certified,0.72,60.34482758620689
+1133,Ritika Das,Frontend Developer,Engineering,Gurgaon,B.Sc,1313164,4,7,3,29,"AWS, Angular, CSS, Docker, Java, Python, Redis, SQL",None,0.49,24.137931034482776
+1134,Priya Kaur,iOS Developer,Data,Pune,MCA,765596,1,4,3,29,"Angular, Bootstrap, CSS, ElasticSearch",Scrum Master,0.61,18.965517241379317
+1135,Pooja Iyer,Software Engineer,Data,Gurgaon,B.Tech,1461737,9,7,4,25,"ElasticSearch, Java, JavaScript, Kubernetes, Postgres, PyTorch, REST",GCP Certified,0.63,39.655172413793096
+1136,Krish Chaudhary,Product Engineer,Research,Delhi,B.E.,865024,4,6,4,33,"GraphQL, Microservices, Postgres, Redis",Kubernetes Cert,0.85,53.44827586206895
+1137,Divya Gupta,Backend Developer,Engineering,Gurgaon,B.Tech,1337026,4,8,2,38,"Bootstrap, Java, JavaScript, Kafka, MongoDB, NoSQL",Azure Certified,0.89,71.55172413793106
+1138,Pooja Chopra,Android Developer,Data,Mumbai,B.Tech,1574761,2,8,1,35,"CI/CD, GraphQL, React, Redis, Selenium",AWS Certified,0.6,42.241379310344826
+1139,Priya Bhat,Data Engineer,Infrastructure,Gurgaon,M.S.,1105171,2,7,2,29,"Bootstrap, CSS, HTML, Microservices, Postgres, PyTorch",None,0.7,40.51724137931035
+1140,Shivam Singh,Product Engineer,Data,Hyderabad,M.S.,1064308,3,4,4,28,"GraphQL, JavaScript, NoSQL, Postgres, React, SQL, Selenium, TypeScript",Azure Certified,0.71,28.448275862068954
+1141,Isha Shah,Product Engineer,Data,Pune,MCA,1331014,0,7,2,36,"ElasticSearch, JavaScript, Jest, Kafka, NumPy, Postgres, Redis",OCI Certified,0.81,52.58620689655173
+1142,Shivam Verma,Frontend Developer,Infrastructure,Noida,M.Tech,937104,1,7,0,38,"GCP, GraphQL, Java, Jest, NoSQL, NumPy, PyTorch, SQL",AWS Certified,0.59,40.517241379310335
+1143,Rohan Singh,Fullstack Developer,Research,Delhi,M.Tech,867804,11,8,1,32,"GCP, JavaScript, Kafka, Microservices, Postgres, REST, SQL",Scrum Master,0.65,59.482758620689665
+1144,Aditya Chaudhary,Backend Developer,Mobile,Delhi,M.S.,1263170,3,8,5,30,"CI/CD, Docker, ElasticSearch, Flask, Node.js, Python",OCI Certified,1.0,67.24137931034483
+1145,Pooja Chopra,Android Developer,Engineering,Mumbai,BCA,1138424,2,9,1,41,"AWS, Docker, Kafka, Microservices, Redis, Selenium",GCP Certified,0.87,74.13793103448276
+1146,Krish Mehta,Frontend Developer,Data,Pune,MCA,1705694,3,6,3,29,"CI/CD, HTML, JavaScript, Kafka, Node.js, Redis, TypeScript",Azure Certified,0.89,53.44827586206897
+1147,Rahul Gupta,Product Engineer,Infrastructure,Pune,BCA,1312575,2,8,1,34,"Angular, CSS, Django, Flask, GCP, PyTorch",GCP Certified,0.5,32.758620689655174
+1148,Divya Sharma,QA Engineer,Mobile,Remote,M.Tech,1049323,0,7,3,33,"Angular, ElasticSearch, MongoDB, Node.js, Redis, SQL, Spring",OCI Certified,0.52,23.275862068965523
+1149,Pooja Bhat,Data Engineer,Research,Remote,B.Tech,929520,1,7,5,29,"Angular, Bootstrap, Kafka, Microservices, TypeScript",Azure Certified,0.96,56.03448275862068
+1150,Rohan Iyer,Technical Lead,Mobile,Pune,BCA,816834,2,5,3,32,"Bootstrap, CSS, Flask, NumPy, React",GCP Certified,0.59,25.000000000000004
+1151,Rahul Gupta,Backend Developer,QA,Chennai,M.Tech,1633293,2,6,1,39,"Angular, CI/CD, Django, Kubernetes, Node.js, Selenium, Spring, TypeScript",Kubernetes Cert,0.78,54.31034482758622
+1152,Rahul Shah,Android Developer,Engineering,Kolkata,MCA,1743508,0,8,2,31,"GraphQL, Java, JavaScript, NoSQL, SQL",AWS Certified,0.61,34.48275862068965
+1153,Vivaan Chaudhary,DevOps Engineer,Infrastructure,Chennai,BCA,1548248,4,5,0,44,"CI/CD, HTML, Java, Kafka, Microservices, Pandas, SQL, TypeScript",Azure Certified,0.76,58.62068965517242
+1154,Divya Kaur,Technical Lead,Data,Mumbai,M.S.,1785310,0,6,3,31,"Kafka, NoSQL, Pandas, React",OCI Certified,0.93,53.44827586206897
+1155,Isha Patel,QA Engineer,Mobile,Pune,M.Tech,1566750,2,7,3,27,"Kubernetes, Postgres, PyTorch, Redis, Spring, TensorFlow",None,0.86,50.86206896551724
+1156,Krish Reddy,Fullstack Developer,Data,Hyderabad,M.Tech,828798,1,8,1,34,"CSS, Django, Docker, Java, MongoDB, NumPy, SQL",None,0.94,68.9655172413793
+1157,Sanya Kaur,Backend Developer,Research,Delhi,B.Sc,1303947,2,4,2,32,"Docker, GCP, HTML, Kubernetes, MongoDB, NoSQL",Azure Certified,1.0,58.6206896551724
+1158,Divya Sharma,Frontend Developer,Data,Kolkata,M.S.,918460,3,8,2,34,"AWS, HTML, React, Redis, Selenium",None,0.77,56.034482758620705
+1159,Divya Joshi,Android Developer,Engineering,Hyderabad,M.S.,1265230,4,7,3,33,"ElasticSearch, JavaScript, Kubernetes, PyTorch, React",None,1.0,71.551724137931
+1160,Simran Patel,QA Engineer,Mobile,Mumbai,B.Tech,1385409,5,7,3,31,"CI/CD, CSS, GraphQL, Jest, Kafka, Microservices, Pandas",AWS Certified,0.92,64.65517241379311
+1161,Rohan Kumar,Data Engineer,QA,Delhi,B.Sc,1080504,15,7,1,33,"Java, Kubernetes, Microservices, MongoDB, PyTorch, SQL",AWS Certified,0.83,79.31034482758619
+1162,Rohan Reddy,Machine Learning Engineer,Mobile,Gurgaon,B.E.,694564,3,6,5,25,"CSS, Jest, Microservices, MongoDB, NoSQL, Node.js, Spring, TypeScript",None,0.6,21.551724137931032
+1163,Rahul Chaudhary,QA Engineer,Mobile,Kolkata,B.Sc,1549330,3,8,3,28,"GraphQL, Java, Jest, NoSQL, Postgres, REST, React",OCI Certified,1.0,68.9655172413793
+1164,Ankita Joshi,Product Engineer,Research,Bangalore,B.Sc,1692605,3,8,3,31,"Bootstrap, Docker, GCP, Kubernetes, Node.js, React, Selenium",Kubernetes Cert,0.56,33.62068965517241
+1165,Ritika Chopra,Backend Developer,Research,Chennai,B.Tech,1251291,2,8,6,25,"AWS, Angular, Flask, GCP, Java, Kafka, MongoDB, NoSQL",Kubernetes Cert,0.47,13.79310344827584
+1166,Karan Bhat,Android Developer,Research,Remote,M.S.,843991,1,9,2,32,"AWS, Bootstrap, Spring, TypeScript",Kubernetes Cert,0.67,45.68965517241378
+1167,Divya Bose,Data Engineer,QA,Pune,M.S.,904718,1,7,3,29,"Django, Docker, Flask, GraphQL, Jest, Kubernetes, Redis, Spring",None,1.0,62.931034482758626
+1168,Rahul Kaur,DevOps Engineer,Research,Mumbai,MCA,1227430,0,9,3,26,"CI/CD, HTML, REST, Redis, TypeScript",Azure Certified,0.56,27.58620689655173
+1169,Krish Chaudhary,Technical Lead,Mobile,Noida,M.S.,1332142,10,9,1,41,"Bootstrap, HTML, JavaScript, Redis, SQL, Selenium",Azure Certified,0.79,81.0344827586207
+1170,Isha Kapoor,Product Engineer,Data,Chennai,B.E.,1274249,3,10,3,35,"Bootstrap, CI/CD, ElasticSearch, Flask, Jest, React, Selenium, Spring",GCP Certified,0.76,61.20689655172413
+1171,Vivaan Bose,Fullstack Developer,Infrastructure,Chennai,B.Tech,1425413,1,6,3,29,"Django, GraphQL, Pandas, REST",Kubernetes Cert,0.93,53.44827586206897
+1172,Rohan Sharma,Android Developer,Platform,Noida,MCA,1126560,0,6,3,31,"Java, MongoDB, NoSQL, REST, SQL, Selenium, TypeScript",Scrum Master,0.81,43.10344827586208
+1173,Aditya Chaudhary,Fullstack Developer,Mobile,Bangalore,B.E.,1155899,3,5,4,27,"Docker, ElasticSearch, HTML, JavaScript, Node.js, Postgres, PyTorch",Scrum Master,0.84,42.241379310344826
+1174,Rahul Verma,Software Engineer,QA,Remote,B.Sc,1014656,2,9,1,39,"Bootstrap, GraphQL, Microservices, Selenium",OCI Certified,0.89,74.13793103448276
+1175,Rohan Bose,Machine Learning Engineer,QA,Chennai,BCA,1688519,1,6,1,32,"GraphQL, Kubernetes, Microservices, NoSQL",Kubernetes Cert,0.69,38.79310344827586
+1176,Arjun Sharma,Product Engineer,QA,Mumbai,B.Sc,1348015,0,8,3,35,"CSS, NumPy, Postgres, PyTorch, TypeScript",AWS Certified,0.98,68.10344827586206
+1177,Neha Kumar,Backend Developer,Platform,Gurgaon,M.Tech,837108,15,8,2,38,"Docker, Kafka, Kubernetes, Python, TensorFlow",Scrum Master,1.0,100.00000000000001
+1178,Shivam Reddy,DevOps Engineer,Mobile,Remote,B.Tech,902792,2,8,1,32,"Docker, ElasticSearch, GCP, GraphQL, HTML, React",Azure Certified,0.45,26.724137931034488
+1179,Arjun Chopra,Technical Lead,Mobile,Mumbai,MCA,1050211,0,8,2,34,"ElasticSearch, GCP, Selenium, Spring",OCI Certified,0.91,62.931034482758605
+1180,Rohan Das,Product Engineer,Mobile,Delhi,M.S.,1257615,0,7,3,26,"AWS, Docker, GraphQL, Jest, NumPy, PyTorch, REST, TensorFlow",AWS Certified,0.7,32.758620689655174
+1181,Pooja Das,Android Developer,Infrastructure,Delhi,B.Tech,847653,1,6,5,25,"Angular, CI/CD, Flask, MongoDB, NoSQL, Node.js, React, Selenium",Scrum Master,0.69,25.86206896551724
+1182,Pooja Das,Frontend Developer,Infrastructure,Chennai,MCA,1275392,6,7,2,30,"Angular, GCP, HTML, Java, Kafka, Kubernetes, Node.js, PyTorch",OCI Certified,1.0,74.13793103448276
+1183,Isha Chaudhary,Software Engineer,Mobile,Gurgaon,MCA,1525075,2,6,2,31,"ElasticSearch, Java, Kubernetes, Pandas, PyTorch, Python",GCP Certified,0.87,53.44827586206895
+1184,Ankita Singh,Software Engineer,Data,Delhi,MCA,1360953,1,6,3,31,"Angular, JavaScript, REST, React",Azure Certified,0.94,56.03448275862068
+1185,Sanya Gupta,Backend Developer,Research,Noida,M.Tech,720686,0,7,2,33,"CSS, GraphQL, JavaScript, Kafka, Microservices, NumPy, TensorFlow",None,0.78,47.41379310344829
+1186,Rohan Nair,Frontend Developer,Platform,Kolkata,M.S.,1216995,10,8,2,30,"CSS, GCP, GraphQL, HTML, Python, SQL, Spring, TensorFlow",Kubernetes Cert,0.91,76.72413793103446
+1187,Simran Bhat,Android Developer,Data,Chennai,B.E.,1062313,0,7,2,30,"CI/CD, Django, ElasticSearch, Kafka, Microservices, Redis, SQL",Scrum Master,0.77,43.9655172413793
+1188,Krish Verma,Technical Lead,Data,Remote,BCA,993400,16,7,0,42,"AWS, Angular, Django, Docker",None,0.71,80.17241379310342
+1189,Vivaan Das,iOS Developer,Infrastructure,Bangalore,B.E.,677705,1,6,3,30,"AWS, GCP, Kafka, PyTorch",Scrum Master,0.72,36.20689655172414
+1190,Vivaan Mehta,Android Developer,QA,Chennai,BCA,739710,3,8,2,32,"Angular, Bootstrap, Docker, GraphQL, Kafka, Kubernetes, SQL, TypeScript",GCP Certified,1.0,74.13793103448276
+1191,Sanya Joshi,DevOps Engineer,Engineering,Kolkata,B.Sc,882184,1,5,1,36,"HTML, NumPy, React, Redis, TensorFlow",Scrum Master,1.0,65.51724137931035
+1192,Pooja Reddy,Product Engineer,Data,Noida,B.E.,1191033,2,7,0,39,"Flask, HTML, NumPy, Postgres, REST, TensorFlow",Azure Certified,0.72,54.31034482758621
+1193,Rohan Das,Software Engineer,Mobile,Noida,M.S.,1317541,2,6,3,35,"Bootstrap, CSS, Django, Flask, NoSQL, Spring, TensorFlow, TypeScript",AWS Certified,0.8,49.13793103448276
+1194,Isha Nair,Frontend Developer,Mobile,Chennai,B.Tech,1419704,5,6,4,23,"Angular, Bootstrap, Django, JavaScript, PyTorch, TensorFlow",None,0.87,48.27586206896551
+1195,Simran Patel,Machine Learning Engineer,Platform,Delhi,M.Tech,1249996,5,7,4,30,"AWS, Flask, MongoDB, REST",GCP Certified,0.74,46.55172413793103
+1196,Ritika Patel,Data Engineer,Platform,Kolkata,M.Tech,1282963,3,8,0,42,"Microservices, Postgres, Redis, SQL, Spring, TensorFlow",None,0.8,68.9655172413793
+1197,Divya Das,Frontend Developer,Research,Gurgaon,BCA,1277765,0,8,1,35,"AWS, Bootstrap, ElasticSearch, Java, Selenium, TypeScript",Scrum Master,0.89,63.79310344827587
+1198,Siddharth Mehta,Software Engineer,QA,Kolkata,B.Sc,959252,1,9,3,36,"CSS, Django, Flask, MongoDB, NoSQL, Pandas, SQL, Selenium",Scrum Master,0.99,74.99999999999999
+1199,Siddharth Malhotra,Android Developer,Infrastructure,Delhi,M.Tech,539052,5,7,1,32,"ElasticSearch, HTML, Microservices, NoSQL, Node.js, Postgres, PyTorch",GCP Certified,0.69,49.13793103448274
+1200,Simran Malhotra,Backend Developer,Mobile,Bangalore,B.Sc,1498814,3,6,1,32,"Angular, Pandas, Python, React",GCP Certified,0.67,40.51724137931036
+1201,Siddharth Singh,Product Engineer,Platform,Bangalore,B.E.,935861,0,7,2,39,"Docker, ElasticSearch, GraphQL, Jest, Microservices, REST, React, TypeScript",Kubernetes Cert,0.89,62.06896551724138
+1202,Divya Sharma,Software Engineer,Mobile,Kolkata,M.S.,1217104,3,7,3,26,"Bootstrap, CI/CD, Java, Selenium",AWS Certified,0.64,32.758620689655174
+1203,Pooja Bhat,Backend Developer,Engineering,Hyderabad,B.Sc,610093,2,8,1,34,"Bootstrap, Docker, Kubernetes, MongoDB, Redis",Azure Certified,0.82,60.34482758620689
+1204,Neha Singh,QA Engineer,Data,Gurgaon,B.Sc,1292222,1,8,6,24,"GCP, JavaScript, Jest, Node.js, PyTorch",OCI Certified,0.86,44.827586206896534
+1205,Neha Iyer,Machine Learning Engineer,Engineering,Bangalore,MCA,1679737,1,7,3,27,"Django, GraphQL, HTML, Node.js, NumPy",None,0.75,39.65517241379311
+1206,Vivaan Kaur,Fullstack Developer,Research,Remote,M.S.,1319906,5,6,3,36,"Angular, CI/CD, HTML, JavaScript, Kafka, Selenium",Kubernetes Cert,0.92,65.51724137931036
+1207,Vivaan Gupta,QA Engineer,Engineering,Chennai,B.Sc,1455650,3,7,2,38,"Angular, Docker, Jest, NoSQL, PyTorch",None,0.67,47.41379310344829
+1208,Neha Iyer,QA Engineer,Data,Pune,BCA,1137293,5,6,3,36,"CSS, Django, React, Redis",OCI Certified,0.65,42.241379310344826
+1209,Siddharth Singh,QA Engineer,Mobile,Remote,B.Sc,1646024,2,8,2,37,"CI/CD, Docker, Flask, GCP, Java, PyTorch, TypeScript",Azure Certified,0.81,60.34482758620691
+1210,Simran Chopra,Data Engineer,Platform,Remote,MCA,1163716,1,8,1,39,"Docker, JavaScript, Microservices, Node.js, Redis, Selenium, Spring",GCP Certified,0.64,47.41379310344829
+1211,Neha Mehta,Product Engineer,Data,Delhi,M.Tech,1201756,1,8,1,37,"Jest, Kafka, Node.js, Python",Azure Certified,0.89,67.24137931034483
+1212,Shivam Kumar,Backend Developer,Engineering,Pune,M.S.,1704328,0,6,3,32,"CI/CD, CSS, Django, JavaScript, Pandas, Postgres, Python",AWS Certified,0.8,43.10344827586208
+1213,Ritika Shah,QA Engineer,Research,Noida,B.Tech,1522594,4,7,1,39,"CI/CD, ElasticSearch, Kafka, Node.js, Pandas, TensorFlow",GCP Certified,0.75,58.62068965517242
+1214,Ankita Bose,Backend Developer,Infrastructure,Noida,B.E.,1507219,1,8,2,34,"Angular, CI/CD, HTML, Jest, SQL",GCP Certified,0.96,68.96551724137929
+1215,Sanya Kapoor,Data Engineer,QA,Gurgaon,BCA,1454499,12,8,2,29,"Docker, ElasticSearch, HTML, Kubernetes",None,0.73,63.79310344827586
+1216,Ritika Patel,Machine Learning Engineer,Engineering,Pune,M.Tech,947022,1,7,6,27,"GraphQL, Kafka, PyTorch, TensorFlow",Azure Certified,0.93,50.00000000000001
+1217,Sanya Shah,Backend Developer,QA,Delhi,B.Sc,1462715,9,7,3,31,"Postgres, PyTorch, REST, Selenium, TypeScript",Kubernetes Cert,0.59,43.10344827586208
+1218,Divya Chaudhary,Fullstack Developer,QA,Noida,M.Tech,1242266,1,5,4,27,"CI/CD, ElasticSearch, Flask, GraphQL, MongoDB, Node.js, Selenium",Scrum Master,0.39,0.0
+1219,Simran Sharma,Product Engineer,Data,Chennai,M.S.,960151,8,8,0,41,"Angular, Bootstrap, HTML, Pandas, SQL, TypeScript",GCP Certified,1.0,93.96551724137932
+1220,Shivam Mehta,Product Engineer,Data,Noida,B.Tech,338615,4,7,2,37,"CI/CD, CSS, Java, Pandas, Postgres, PyTorch, REST",Kubernetes Cert,0.91,68.96551724137929
+1221,Simran Shah,Technical Lead,Engineering,Hyderabad,BCA,1568080,9,6,2,34,"GraphQL, JavaScript, NoSQL, PyTorch, Redis",Scrum Master,0.67,50.86206896551724
+1222,Sanya Kumar,Software Engineer,Engineering,Mumbai,B.E.,1548067,1,7,2,30,"Bootstrap, CSS, GCP, GraphQL, Kafka, MongoDB, Postgres, TensorFlow",None,0.44,17.241379310344826
+1223,Pooja Mehta,QA Engineer,Engineering,Gurgaon,B.Tech,1465214,1,7,2,36,"Angular, Bootstrap, ElasticSearch, Flask, Node.js, Pandas",Azure Certified,0.81,54.31034482758622
+1224,Rahul Reddy,Machine Learning Engineer,Research,Chennai,B.Sc,1465382,12,6,2,36,"Bootstrap, CSS, Django, ElasticSearch, GCP, REST, Redis",Azure Certified,0.61,52.586206896551715
+1225,Aditya Joshi,Software Engineer,Research,Hyderabad,B.Tech,877960,9,6,4,33,"CI/CD, Django, Docker, Kubernetes, NoSQL, Node.js",GCP Certified,0.78,56.03448275862068
+1226,Ananya Iyer,Data Engineer,Data,Chennai,BCA,1252932,2,7,0,40,"Bootstrap, ElasticSearch, Jest, MongoDB, NumPy, Postgres, Python",GCP Certified,0.76,58.62068965517242
+1227,Isha Chaudhary,Data Engineer,Data,Bangalore,MCA,1545087,0,6,2,35,"AWS, Angular, CI/CD, Django, Postgres",Azure Certified,0.9,56.03448275862068
+1228,Ananya Patel,Machine Learning Engineer,Engineering,Mumbai,MCA,986772,2,7,2,29,"Bootstrap, Jest, MongoDB, React, Selenium, TensorFlow, TypeScript",Azure Certified,0.7,40.51724137931035
+1229,Priya Das,iOS Developer,Platform,Mumbai,B.Sc,960242,1,8,4,33,"Bootstrap, Flask, Node.js, REST, React, SQL, Spring, TypeScript",Azure Certified,0.68,40.51724137931035
+1230,Rohan Bose,Data Engineer,Data,Remote,B.E.,1225822,4,8,2,31,"CI/CD, Docker, Microservices, NumPy, Postgres, Redis, TensorFlow, TypeScript",GCP Certified,0.81,58.62068965517242
+1231,Simran Gupta,Machine Learning Engineer,QA,Pune,B.E.,1464385,2,7,4,32,"Docker, Kafka, Python, REST, React, Redis",GCP Certified,0.69,38.79310344827586
+1232,Karan Chopra,Android Developer,Mobile,Gurgaon,M.S.,1122738,4,6,2,36,"HTML, JavaScript, Kafka, Node.js, Pandas, Python, Selenium",Scrum Master,0.39,19.827586206896555
+1233,Siddharth Joshi,Software Engineer,QA,Chennai,B.Sc,1519012,2,7,2,34,"CI/CD, HTML, Kubernetes, Microservices, NoSQL, React",None,0.63,38.79310344827586
+1234,Krish Kapoor,Android Developer,Research,Delhi,B.Sc,1099567,1,7,3,31,"AWS, Django, Kafka, NumPy",Kubernetes Cert,0.85,51.7241379310345
+1235,Siddharth Joshi,Software Engineer,Data,Mumbai,M.Tech,1037260,1,7,2,34,"AWS, Docker, Flask, Kafka",Scrum Master,0.85,56.03448275862068
+1236,Ankita Nair,Product Engineer,Mobile,Noida,B.E.,1316966,0,6,0,38,"AWS, CI/CD, CSS, Java, Postgres, PyTorch, Selenium, Spring",Azure Certified,0.68,43.10344827586208
+1237,Ritika Iyer,Backend Developer,QA,Mumbai,M.Tech,1378933,6,7,4,27,"AWS, Angular, CI/CD, CSS, Django, Java, PyTorch, TensorFlow",Azure Certified,1.0,68.10344827586205
+1238,Rohan Mehta,Fullstack Developer,Platform,Delhi,BCA,1421027,6,6,2,38,"CI/CD, HTML, Pandas, PyTorch, SQL",OCI Certified,0.76,56.89655172413792
+1239,Isha Singh,Technical Lead,Research,Hyderabad,M.S.,1089953,0,6,5,30,"CI/CD, Docker, ElasticSearch, Microservices, NoSQL, Python, REST, Selenium",Scrum Master,0.5,12.06896551724138
+1240,Aditya Das,Technical Lead,Infrastructure,Delhi,BCA,928889,3,7,2,35,"AWS, HTML, NumPy, PyTorch",Azure Certified,0.87,62.06896551724136
+1241,Ananya Joshi,QA Engineer,Mobile,Remote,B.E.,898032,14,8,1,36,"Bootstrap, GraphQL, HTML, Java, Pandas, PyTorch, React, TypeScript",OCI Certified,0.74,75.86206896551724
+1242,Aarav Kumar,Backend Developer,Data,Gurgaon,B.Tech,1354172,6,7,5,26,"CSS, Jest, Kafka, MongoDB, Node.js, NumPy, Spring",AWS Certified,0.74,43.103448275862064
+1243,Priya Kapoor,Frontend Developer,QA,Pune,B.Tech,858400,1,6,1,42,"GCP, JavaScript, Jest, NumPy, React, Redis, TypeScript",AWS Certified,0.6,39.65517241379311
+1244,Karan Malhotra,Frontend Developer,Platform,Remote,B.E.,1039402,4,7,3,28,"AWS, CSS, Kafka, NoSQL, Pandas, Python, React, Redis",Kubernetes Cert,0.88,56.896551724137936
+1245,Rohan Malhotra,Frontend Developer,Platform,Noida,B.Tech,1465425,5,7,4,30,"Django, ElasticSearch, Jest, TypeScript",GCP Certified,0.82,53.44827586206895
+1246,Neha Mehta,Technical Lead,Infrastructure,Pune,B.Tech,1310186,0,9,1,39,"Django, ElasticSearch, Kafka, Microservices, NoSQL, Postgres, Python, TypeScript",GCP Certified,0.92,73.27586206896554
+1247,Sanya Shah,Technical Lead,Data,Chennai,B.Tech,1034149,0,8,1,39,"Flask, Redis, Spring, TensorFlow",OCI Certified,0.67,48.27586206896552
+1248,Ananya Mehta,Fullstack Developer,QA,Hyderabad,B.E.,1092869,1,8,4,25,"Django, HTML, Java, Jest, Kubernetes, Microservices, REST, Selenium",Kubernetes Cert,0.93,55.172413793103445
+1249,Neha Joshi,Technical Lead,Engineering,Chennai,M.S.,994645,3,6,2,37,"Docker, Flask, HTML, JavaScript, Jest, Kubernetes, TypeScript",AWS Certified,0.92,64.65517241379311
+1250,Priya Reddy,Backend Developer,Data,Remote,M.S.,1279547,5,8,4,31,"Angular, JavaScript, Postgres, Python, REST, Selenium",AWS Certified,0.65,43.103448275862064
+1251,Shivam Patel,Software Engineer,Engineering,Noida,B.Sc,1059425,1,7,3,29,"CSS, JavaScript, MongoDB, NumPy, Pandas, Redis",Kubernetes Cert,0.9,54.31034482758621
+1252,Simran Iyer,iOS Developer,Platform,Mumbai,B.Tech,1123024,3,4,5,28,"AWS, Angular, CI/CD, CSS, Node.js, PyTorch",Azure Certified,0.92,44.827586206896555
+1253,Neha Chaudhary,Technical Lead,Research,Hyderabad,M.Tech,1261815,1,4,3,29,"AWS, Bootstrap, CSS, Docker, JavaScript, Microservices, React",OCI Certified,0.57,15.517241379310333
+1254,Ritika Shah,Software Engineer,QA,Pune,B.Tech,1224732,0,5,0,42,"HTML, NoSQL, Python, Spring",Azure Certified,0.96,67.24137931034483
+1255,Pooja Bose,Product Engineer,QA,Pune,M.Tech,1026741,3,5,2,37,"CI/CD, Flask, GraphQL, Java, NumPy",Azure Certified,0.82,52.586206896551715
+1256,Pooja Singh,DevOps Engineer,Infrastructure,Remote,MCA,1239641,6,9,1,42,"CSS, ElasticSearch, HTML, Microservices",AWS Certified,0.79,74.99999999999999
+1257,Divya Chaudhary,Backend Developer,QA,Pune,M.Tech,1022917,8,7,4,23,"CSS, Flask, GCP, Python",AWS Certified,0.63,36.20689655172413
+1258,Aarav Kaur,Software Engineer,Data,Delhi,M.S.,1055082,1,7,0,38,"GCP, JavaScript, Pandas, Postgres, TypeScript",GCP Certified,0.69,49.13793103448274
+1259,Sanya Reddy,DevOps Engineer,Research,Hyderabad,B.Sc,1302845,1,4,1,35,"Bootstrap, CSS, Flask, Node.js, PyTorch, React",None,0.69,34.48275862068965
+1260,Vivaan Chopra,Frontend Developer,Data,Mumbai,BCA,1138436,1,8,5,21,"Django, Microservices, Node.js, Postgres, Python, TypeScript",Azure Certified,0.75,34.48275862068965
+1261,Ankita Joshi,Product Engineer,Mobile,Chennai,M.S.,1104796,3,7,6,26,"AWS, Angular, Docker, HTML, MongoDB, Python",AWS Certified,1.0,58.62068965517242
+1262,Siddharth Iyer,QA Engineer,Infrastructure,Bangalore,M.Tech,1147609,5,5,0,39,"AWS, Django, Jest, TensorFlow",None,0.7,50.86206896551724
+1263,Siddharth Bhat,Machine Learning Engineer,Engineering,Pune,MCA,1732593,3,6,6,24,"GCP, JavaScript, Kafka, Kubernetes, Node.js, NumPy",OCI Certified,0.64,22.413793103448285
+1264,Priya Das,Product Engineer,Engineering,Remote,B.Tech,1118272,1,7,2,35,"AWS, Angular, GraphQL, Java, PyTorch, REST, Selenium, Spring",GCP Certified,0.66,40.51724137931035
+1265,Siddharth Joshi,DevOps Engineer,Research,Delhi,BCA,1070953,0,9,1,42,"Bootstrap, Django, Flask, JavaScript, Kafka, Spring, TypeScript",GCP Certified,1.0,82.75862068965517
+1266,Ankita Kumar,Backend Developer,Engineering,Pune,M.S.,1533091,3,6,1,37,"CI/CD, Django, Flask, Pandas, Postgres, TensorFlow, TypeScript",OCI Certified,1.0,73.27586206896554
+1267,Rahul Das,DevOps Engineer,Research,Hyderabad,B.Tech,1061371,0,6,3,31,"AWS, JavaScript, Jest, SQL, TypeScript",AWS Certified,0.8,42.241379310344826
+1268,Siddharth Nair,Data Engineer,Mobile,Bangalore,MCA,1155442,2,8,1,36,"Java, Kubernetes, MongoDB, NumPy, Postgres, REST",OCI Certified,0.88,67.24137931034483
+1269,Simran Iyer,Fullstack Developer,Engineering,Gurgaon,B.Tech,1111356,0,7,6,22,"Flask, GCP, Python, React, Spring",GCP Certified,0.83,35.344827586206875
+1270,Neha Nair,Technical Lead,Infrastructure,Hyderabad,B.Sc,841822,2,7,4,25,"Angular, Django, GCP, Java, JavaScript, Kafka, Kubernetes, TypeScript",Scrum Master,0.8,42.24137931034481
+1271,Rohan Singh,QA Engineer,Engineering,Bangalore,M.S.,803370,3,8,2,31,"HTML, NoSQL, NumPy, PyTorch",AWS Certified,0.72,49.13793103448274
+1272,Neha Bhat,Backend Developer,QA,Chennai,B.E.,1297320,1,7,3,33,"CI/CD, Java, Jest, Kafka, Microservices, SQL",None,0.62,33.62068965517241
+1273,Siddharth Joshi,Machine Learning Engineer,Data,Kolkata,M.S.,1349010,2,7,4,28,"CI/CD, Node.js, Spring, TensorFlow",OCI Certified,0.71,37.06896551724137
+1274,Karan Bose,Fullstack Developer,Infrastructure,Kolkata,BCA,1292415,0,7,4,25,"HTML, REST, Redis, TensorFlow",Azure Certified,0.66,26.724137931034488
+1275,Ankita Bose,QA Engineer,Data,Mumbai,B.E.,1208663,4,5,3,36,"CI/CD, GCP, Java, TypeScript",AWS Certified,0.79,49.13793103448276
+1276,Divya Bose,QA Engineer,Research,Remote,B.E.,559298,3,10,7,22,"CI/CD, Django, Docker, GCP, React",None,0.59,28.448275862068954
+1277,Neha Nair,Backend Developer,Platform,Chennai,B.Sc,1488927,1,6,0,41,"Bootstrap, Java, Microservices, REST, Redis, Selenium",GCP Certified,0.67,46.551724137931046
+1278,Ankita Patel,Machine Learning Engineer,Mobile,Mumbai,B.E.,1194387,3,7,2,33,"Flask, JavaScript, Jest, Node.js, Python, REST, React",None,0.97,68.96551724137929
+1279,Divya Sharma,QA Engineer,Mobile,Chennai,BCA,1040533,1,8,1,32,"GraphQL, Java, Postgres, React, TypeScript",GCP Certified,0.88,62.06896551724139
+1280,Ankita Mehta,Frontend Developer,Research,Kolkata,BCA,1562780,0,5,0,42,"Angular, ElasticSearch, NoSQL, PyTorch, React, Selenium",Azure Certified,0.9,62.06896551724136
+1281,Ananya Mehta,Backend Developer,Infrastructure,Noida,BCA,1554736,4,7,1,35,"Flask, GraphQL, Pandas, Postgres, Redis, Selenium, TypeScript",GCP Certified,0.96,73.27586206896551
+1282,Neha Joshi,Product Engineer,Infrastructure,Mumbai,B.E.,997447,1,7,3,28,"JavaScript, Postgres, PyTorch, Python, TypeScript",Scrum Master,0.52,20.689655172413794
+1283,Ritika Kaur,Technical Lead,Mobile,Hyderabad,M.S.,1263988,0,9,1,33,"Angular, Docker, GraphQL, Redis, TypeScript",GCP Certified,0.8,57.758620689655174
+1284,Aditya Reddy,Machine Learning Engineer,Engineering,Mumbai,B.E.,1494394,1,8,3,32,"Angular, Django, Kubernetes, Python, Redis",AWS Certified,0.76,48.27586206896551
+1285,Neha Das,Product Engineer,Data,Pune,M.S.,1390008,2,8,4,23,"Bootstrap, Docker, Pandas, PyTorch, React, Redis, TensorFlow",Scrum Master,0.61,27.586206896551715
+1286,Ankita Kaur,Backend Developer,Data,Hyderabad,BCA,1403383,2,7,4,26,"Java, Kubernetes, Selenium, TypeScript",AWS Certified,0.64,29.31034482758621
+1287,Aditya Reddy,Backend Developer,Data,Pune,MCA,895125,2,6,4,23,"GraphQL, Java, Node.js, REST",OCI Certified,1.0,54.31034482758621
+1288,Arjun Shah,Data Engineer,Platform,Bangalore,B.Tech,1012143,1,7,1,33,"AWS, CI/CD, ElasticSearch, MongoDB, Pandas, Redis",Kubernetes Cert,0.49,25.862068965517253
+1289,Simran Kapoor,Technical Lead,QA,Mumbai,B.E.,1071284,8,7,6,24,"HTML, PyTorch, React, SQL",AWS Certified,0.82,50.00000000000001
+1290,Priya Sharma,Data Engineer,Engineering,Mumbai,BCA,1180336,1,9,2,35,"Django, HTML, MongoDB, Node.js, Python, REST, SQL, TypeScript",AWS Certified,0.88,66.37931034482759
+1291,Divya Kumar,DevOps Engineer,Research,Noida,M.S.,1091990,1,6,3,28,"CSS, Kafka, Kubernetes, MongoDB, Node.js, Postgres, TensorFlow",Azure Certified,0.74,36.20689655172414
+1292,Arjun Das,Software Engineer,QA,Gurgaon,M.S.,1068567,1,7,4,25,"Angular, CI/CD, GCP, React, Redis, TensorFlow",Kubernetes Cert,0.72,33.6206896551724
+1293,Krish Singh,Technical Lead,QA,Kolkata,M.S.,1155666,4,8,3,33,"AWS, CI/CD, GCP, GraphQL, Kubernetes, Pandas, React, TensorFlow",Scrum Master,0.75,53.44827586206897
+1294,Divya Chaudhary,Fullstack Developer,Data,Mumbai,B.Tech,1544827,4,8,0,43,"CSS, GCP, JavaScript, Node.js, React, SQL, TensorFlow",GCP Certified,0.86,76.72413793103446
+1295,Karan Patel,Backend Developer,Engineering,Noida,B.Tech,929385,4,8,2,32,"ElasticSearch, Kubernetes, Microservices, MongoDB, NoSQL, PyTorch, SQL",AWS Certified,0.59,40.517241379310335
+1296,Aditya Chopra,Android Developer,Data,Kolkata,M.Tech,1500626,5,8,1,41,"Bootstrap, Jest, Microservices, PyTorch, Python, Redis",None,0.77,67.24137931034483
+1297,Pooja Bhat,Frontend Developer,Data,Pune,B.E.,901695,2,8,1,42,"Bootstrap, CI/CD, CSS, Django, NumPy, Postgres, PyTorch, SQL",OCI Certified,0.44,34.482758620689665
+1298,Shivam Chopra,Technical Lead,Data,Remote,B.Sc,1623563,2,6,1,41,"Angular, CI/CD, JavaScript, Jest, Kafka, MongoDB, Postgres",Kubernetes Cert,0.83,60.34482758620689
+1299,Neha Verma,Data Engineer,QA,Chennai,B.Tech,1529353,0,5,1,36,"CI/CD, ElasticSearch, Java, NoSQL, Pandas, PyTorch, SQL",Azure Certified,0.6,29.31034482758621
+1300,Shivam Malhotra,Product Engineer,Infrastructure,Hyderabad,BCA,1573216,1,6,4,26,"CI/CD, Jest, Kafka, Spring, TypeScript",Kubernetes Cert,0.83,40.517241379310335
+1301,Sanya Shah,Technical Lead,Engineering,Chennai,M.S.,1273186,5,4,1,40,"Bootstrap, ElasticSearch, HTML, Pandas, React",None,0.66,43.103448275862064
+1302,Arjun Singh,DevOps Engineer,Infrastructure,Kolkata,M.S.,1245040,2,8,0,44,"Bootstrap, Java, MongoDB, Postgres, React",GCP Certified,0.82,70.68965517241378
+1303,Vivaan Das,Software Engineer,QA,Chennai,M.Tech,1207628,1,10,3,35,"Bootstrap, CSS, Microservices, PyTorch, React, TypeScript",Kubernetes Cert,0.86,66.37931034482759
+1304,Aarav Kaur,QA Engineer,Data,Remote,M.S.,1087441,3,7,2,33,"Kubernetes, NoSQL, Node.js, REST, Redis",Azure Certified,0.94,66.37931034482759
+1305,Aarav Chopra,Software Engineer,Platform,Remote,BCA,1218183,1,8,4,24,"AWS, CI/CD, CSS, GCP, Pandas",AWS Certified,0.88,50.00000000000001
+1306,Aarav Malhotra,Backend Developer,Infrastructure,Pune,B.Sc,1334883,2,7,1,32,"CI/CD, GCP, Jest, Kubernetes",OCI Certified,0.81,54.31034482758622
+1307,Neha Nair,Machine Learning Engineer,QA,Chennai,M.S.,1375372,1,9,0,40,"Bootstrap, Django, GraphQL, Kubernetes, PyTorch, Python",Scrum Master,0.8,67.24137931034483
+1308,Priya Iyer,Technical Lead,Mobile,Remote,M.Tech,807728,2,7,5,30,"Angular, Django, NoSQL, REST, Spring, TypeScript",Azure Certified,0.87,50.862068965517224
+1309,Shivam Kapoor,Technical Lead,Infrastructure,Mumbai,B.E.,1311328,1,5,2,34,"Bootstrap, Docker, PyTorch, React, TypeScript",Kubernetes Cert,0.87,50.86206896551724
+1310,Rohan Sharma,Technical Lead,Data,Mumbai,M.Tech,1360542,1,8,6,20,"JavaScript, Pandas, PyTorch, REST, Redis, Selenium, TensorFlow",GCP Certified,0.91,45.6896551724138
+1311,Ananya Kaur,Technical Lead,Mobile,Gurgaon,MCA,812018,3,7,2,38,"CSS, GraphQL, Jest, Kafka, NoSQL, Pandas",None,0.62,43.10344827586208
+1312,Arjun Joshi,Frontend Developer,Data,Pune,MCA,1035256,2,9,1,41,"Bootstrap, Flask, GraphQL, Node.js, Postgres, REST",Kubernetes Cert,0.93,79.31034482758622
+1313,Rahul Bhat,QA Engineer,QA,Mumbai,B.Sc,1064373,4,7,0,37,"Flask, Java, Microservices, NumPy, REST, TypeScript",None,0.67,51.72413793103448
+1314,Ankita Shah,Frontend Developer,Data,Chennai,B.Sc,2248763,2,5,1,34,"Bootstrap, Jest, Pandas, TensorFlow",AWS Certified,0.79,47.41379310344829
+1315,Rohan Mehta,Fullstack Developer,QA,Noida,B.Sc,998317,1,8,5,30,"Docker, JavaScript, NoSQL, Postgres, SQL, TensorFlow, TypeScript",Kubernetes Cert,0.51,21.551724137931032
+1316,Arjun Reddy,Technical Lead,Engineering,Bangalore,M.S.,1077889,9,8,3,35,"AWS, CSS, Docker, NoSQL, PyTorch, TensorFlow",Scrum Master,0.77,65.51724137931033
+1317,Aditya Mehta,iOS Developer,Data,Noida,M.S.,1252002,2,9,3,33,"CI/CD, Django, ElasticSearch, Java, Python, REST, TensorFlow",Azure Certified,0.72,50.86206896551724
+1318,Aarav Reddy,Android Developer,Platform,Bangalore,MCA,1034784,6,6,1,35,"Docker, GCP, Jest, Redis",GCP Certified,0.9,68.10344827586208
+1319,Krish Chopra,Android Developer,Mobile,Mumbai,B.E.,1090391,2,6,3,29,"JavaScript, Jest, Microservices, Selenium",Kubernetes Cert,0.98,59.482758620689665
+1320,Pooja Shah,Android Developer,QA,Noida,MCA,1048746,0,7,1,40,"GraphQL, HTML, MongoDB, NoSQL, Redis",Scrum Master,0.77,54.31034482758621
+1321,Neha Sharma,Fullstack Developer,Platform,Pune,B.E.,1034303,4,6,0,38,"CSS, ElasticSearch, Flask, NoSQL",Kubernetes Cert,0.71,52.586206896551715
+1322,Vivaan Chopra,Technical Lead,QA,Kolkata,B.Sc,1403812,4,6,3,34,"Django, Flask, Java, React",OCI Certified,0.67,40.51724137931035
+1323,Isha Chopra,Frontend Developer,Mobile,Mumbai,M.S.,922942,0,5,2,39,"AWS, Django, Jest, Pandas, Python",Kubernetes Cert,0.73,41.37931034482757
+1324,Pooja Kapoor,iOS Developer,Mobile,Pune,M.S.,1649211,0,6,2,38,"CSS, Django, Flask, Selenium",OCI Certified,0.46,20.689655172413794
+1325,Karan Shah,Fullstack Developer,Research,Mumbai,BCA,1111861,9,6,3,26,"CI/CD, Docker, Java, MongoDB, Node.js, Pandas, Redis, SQL",GCP Certified,0.85,57.758620689655174
+1326,Divya Reddy,Fullstack Developer,Engineering,Bangalore,MCA,1524583,2,8,6,22,"Flask, HTML, Node.js, SQL",Scrum Master,0.87,45.6896551724138
+1327,Pooja Singh,Product Engineer,Infrastructure,Hyderabad,M.Tech,1433681,4,8,2,32,"Django, Kubernetes, Microservices, React, Selenium",Scrum Master,0.81,59.48275862068965
+1328,Arjun Verma,DevOps Engineer,QA,Delhi,M.S.,1111810,5,7,0,44,"Django, JavaScript, Python, Spring",Kubernetes Cert,0.96,84.48275862068965
+1329,Arjun Reddy,QA Engineer,Data,Remote,M.Tech,1308936,0,7,4,28,"ElasticSearch, Flask, GraphQL, Postgres",OCI Certified,1.0,58.62068965517242
+1330,Neha Das,DevOps Engineer,Research,Noida,MCA,1326164,5,7,4,30,"Angular, ElasticSearch, Flask, Java, NoSQL, Pandas, Redis",Scrum Master,0.9,60.34482758620689
+1331,Arjun Kumar,Data Engineer,Mobile,Gurgaon,BCA,790213,3,7,2,29,"CSS, GraphQL, HTML, Jest, Kafka, Postgres, Python, TensorFlow",Scrum Master,0.7,42.241379310344826
+1332,Rohan Malhotra,Machine Learning Engineer,Engineering,Noida,M.S.,1166326,6,8,2,30,"Angular, Kubernetes, Python, TypeScript",Kubernetes Cert,1.0,77.58620689655172
+1333,Pooja Chaudhary,Product Engineer,Mobile,Chennai,MCA,1002770,1,7,4,25,"Bootstrap, Django, ElasticSearch, Flask, GraphQL, NumPy",OCI Certified,0.72,33.6206896551724
+1334,Priya Chopra,Backend Developer,Research,Kolkata,B.Sc,1342012,14,9,3,35,"CSS, NoSQL, Python, REST",Scrum Master,0.77,77.58620689655172
+1335,Divya Gupta,Frontend Developer,Research,Gurgaon,M.Tech,922730,4,6,2,38,"CI/CD, CSS, GCP, GraphQL, React",None,1.0,74.13793103448276
+1336,Neha Chopra,Fullstack Developer,Engineering,Gurgaon,M.S.,1711693,3,7,2,35,"Docker, ElasticSearch, GCP, HTML, Kafka, NoSQL, Node.js, React",Kubernetes Cert,0.79,55.172413793103445
+1337,Aarav Kumar,Data Engineer,Data,Bangalore,B.Sc,1255708,0,9,2,31,"CI/CD, Django, Jest, Kafka, Kubernetes, Node.js, Python, TypeScript",Kubernetes Cert,1.0,71.55172413793103
+1338,Isha Reddy,QA Engineer,Research,Bangalore,BCA,1502296,2,5,3,27,"ElasticSearch, GraphQL, Kafka, Microservices, REST",AWS Certified,0.77,36.20689655172414
+1339,Krish Kaur,Software Engineer,QA,Delhi,BCA,1283038,3,8,1,35,"Bootstrap, Django, ElasticSearch, Java, Kafka, Node.js",OCI Certified,0.98,76.72413793103449
+1340,Rohan Bhat,Frontend Developer,QA,Remote,B.E.,1220864,8,8,3,31,"AWS, Flask, Microservices, MongoDB, PyTorch",Kubernetes Cert,0.8,62.931034482758626
+1341,Ananya Kumar,Data Engineer,Engineering,Remote,B.Tech,1147694,0,7,2,37,"CSS, Docker, Kubernetes, Microservices, Python, REST, Spring",Kubernetes Cert,0.83,55.17241379310343
+1342,Vivaan Iyer,Data Engineer,Research,Remote,M.S.,1279156,3,5,3,29,"Bootstrap, GraphQL, Jest, MongoDB, NumPy, Postgres, React, Spring",Azure Certified,0.7,33.62068965517241
+1343,Pooja Chopra,Data Engineer,Mobile,Chennai,M.Tech,938845,1,7,3,32,"AWS, Angular, GraphQL, Kafka, Microservices, PyTorch, Selenium",None,0.69,38.79310344827587
+1344,Pooja Joshi,Product Engineer,Mobile,Delhi,MCA,1322363,5,8,3,26,"AWS, Bootstrap, GraphQL, Jest, MongoDB, Postgres, Redis, SQL",Kubernetes Cert,0.95,66.37931034482759
+1345,Rohan Gupta,Android Developer,Mobile,Delhi,MCA,974147,2,8,4,33,"Pandas, REST, Redis, Selenium",Scrum Master,0.71,44.827586206896534
+1346,Sanya Sharma,Android Developer,Engineering,Bangalore,M.S.,1842415,1,6,4,24,"CI/CD, MongoDB, NoSQL, React, Selenium",Kubernetes Cert,0.72,29.310344827586192
+1347,Shivam Mehta,Software Engineer,Infrastructure,Mumbai,B.E.,1457876,2,6,2,35,"ElasticSearch, GraphQL, JavaScript, Jest, Kafka, NumPy, React, Redis",None,0.8,50.86206896551724
+1348,Siddharth Iyer,Data Engineer,Platform,Kolkata,BCA,1421187,0,7,6,20,"AWS, CSS, GraphQL, PyTorch, React, TensorFlow",Azure Certified,0.65,18.10344827586208
+1349,Simran Verma,Software Engineer,Infrastructure,Mumbai,B.E.,864878,1,10,4,29,"CI/CD, ElasticSearch, GCP, HTML, Jest, Kafka, Selenium, TensorFlow",GCP Certified,0.99,70.68965517241378
+1350,Karan Joshi,Machine Learning Engineer,Platform,Hyderabad,B.E.,1162364,1,7,3,34,"CSS, Flask, JavaScript, NumPy, TensorFlow",Azure Certified,0.85,54.31034482758621
+1351,Simran Kapoor,Backend Developer,Platform,Remote,BCA,553020,5,7,2,37,"Angular, GraphQL, HTML, Microservices, Python, Redis",AWS Certified,0.92,71.55172413793106
+1352,Rohan Reddy,iOS Developer,Engineering,Remote,BCA,1342090,1,6,2,29,"Angular, CSS, HTML, NoSQL, PyTorch, Redis",None,0.89,51.7241379310345
+1353,Siddharth Gupta,Android Developer,Engineering,Kolkata,B.E.,1323219,2,6,2,38,"Django, Flask, GraphQL, Kafka, Node.js, PyTorch, Redis",Azure Certified,0.94,65.51724137931033
+1354,Ananya Nair,DevOps Engineer,Platform,Remote,B.Sc,1535664,0,9,1,38,"CSS, Flask, GCP, Kafka, Python, Redis, TypeScript",None,0.78,60.34482758620691
+1355,Ritika Kaur,Software Engineer,Infrastructure,Delhi,M.S.,1022122,1,8,3,35,"Java, Kubernetes, Selenium, TensorFlow",None,1.0,71.551724137931
+1356,Priya Bose,Android Developer,Data,Gurgaon,B.Tech,1200134,2,5,3,26,"HTML, MongoDB, Node.js, REST, React, TypeScript",Scrum Master,0.91,47.41379310344827
+1357,Simran Iyer,Software Engineer,Infrastructure,Hyderabad,B.E.,1197745,2,7,2,38,"AWS, Angular, Django, NumPy, SQL",AWS Certified,0.86,62.06896551724136
+1358,Isha Reddy,Software Engineer,Engineering,Hyderabad,B.Tech,394564,0,7,1,34,"Angular, GCP, Kubernetes, Pandas, TensorFlow",OCI Certified,1.0,68.96551724137933
+1359,Neha Bhat,QA Engineer,Engineering,Noida,MCA,1487543,4,7,5,22,"Angular, JavaScript, Python, Redis",None,1.0,58.62068965517242
+1360,Krish Joshi,Technical Lead,QA,Remote,B.Tech,1091472,2,8,0,43,"GraphQL, Kafka, Pandas, PyTorch, Python, TensorFlow",OCI Certified,0.76,64.6551724137931
+1361,Arjun Iyer,Fullstack Developer,Platform,Noida,BCA,1482209,2,6,4,25,"ElasticSearch, GraphQL, Jest, Kafka, NumPy, PyTorch, SQL, Selenium",Kubernetes Cert,0.83,41.37931034482757
+1362,Priya Sharma,Android Developer,Research,Kolkata,B.E.,1009391,1,6,0,38,"JavaScript, Node.js, PyTorch, Python",Azure Certified,1.0,72.41379310344826
+1363,Karan Nair,Fullstack Developer,Data,Kolkata,B.E.,1115146,3,8,1,33,"Flask, GCP, Kubernetes, MongoDB, Postgres",GCP Certified,0.63,44.827586206896555
+1364,Ankita Verma,Android Developer,Data,Kolkata,B.Tech,1280560,0,9,6,21,"Angular, Django, ElasticSearch, HTML, Kubernetes, Selenium",OCI Certified,0.9,47.41379310344827
+1365,Ananya Nair,Backend Developer,Infrastructure,Chennai,B.Tech,924597,1,6,1,38,"Angular, Docker, GCP, MongoDB, NoSQL, TypeScript",None,1.0,70.68965517241378
+1366,Rahul Chaudhary,Backend Developer,Mobile,Remote,M.Tech,821505,4,9,4,33,"CSS, Flask, NoSQL, NumPy, PyTorch, Python",GCP Certified,0.67,48.27586206896552
+1367,Sanya Kapoor,QA Engineer,Platform,Delhi,M.S.,1004373,1,6,3,26,"CI/CD, Docker, Jest, Kafka, Node.js, React, Redis",Kubernetes Cert,0.7,31.034482758620694
+1368,Ritika Singh,DevOps Engineer,Research,Pune,B.Sc,887912,2,7,4,25,"Angular, CSS, Java, Kubernetes, PyTorch",Scrum Master,0.83,44.827586206896534
+1369,Ankita Patel,Software Engineer,Mobile,Mumbai,B.Sc,1365975,1,6,3,32,"ElasticSearch, Flask, Kafka, MongoDB, REST, SQL, Selenium, TensorFlow",Kubernetes Cert,0.71,37.06896551724138
+1370,Rahul Mehta,Machine Learning Engineer,Mobile,Kolkata,B.Tech,1384208,2,8,4,30,"CSS, ElasticSearch, Flask, GraphQL, NumPy, PyTorch, Python",None,0.85,54.31034482758619
+1371,Arjun Bose,Backend Developer,Data,Pune,B.E.,730559,0,6,7,19,"Docker, Flask, Java, Microservices, REST, Redis, SQL, TensorFlow",AWS Certified,0.97,39.655172413793096
+1372,Shivam Nair,Fullstack Developer,Engineering,Chennai,B.Sc,1934838,1,6,5,24,"HTML, Java, Kafka, Microservices, REST, TensorFlow",Kubernetes Cert,0.89,42.24137931034484
+1373,Ananya Kumar,Product Engineer,Mobile,Mumbai,BCA,1598680,4,8,6,26,"Bootstrap, CSS, Postgres, Selenium, TensorFlow, TypeScript",Scrum Master,1.0,63.79310344827587
+1374,Aditya Bose,DevOps Engineer,Data,Chennai,B.Sc,1270124,3,6,3,36,"Bootstrap, Docker, HTML, Jest, Kafka, PyTorch, Redis",AWS Certified,0.42,18.965517241379317
+1375,Pooja Mehta,Machine Learning Engineer,Platform,Chennai,B.Tech,792663,2,7,6,27,"AWS, CI/CD, Jest, Node.js, Postgres, REST, Redis, SQL",Scrum Master,0.97,55.17241379310343
+1376,Krish Kaur,Data Engineer,Research,Delhi,MCA,1200414,4,5,3,32,"AWS, NoSQL, Pandas, REST",AWS Certified,0.62,31.03448275862068
+1377,Siddharth Verma,Backend Developer,Mobile,Remote,B.E.,1312048,4,9,2,29,"CSS, JavaScript, NoSQL, React, SQL",Azure Certified,0.72,52.586206896551715
+1378,Arjun Bose,Data Engineer,Mobile,Remote,MCA,1666248,5,8,4,24,"AWS, Kafka, Node.js, Selenium",None,0.55,28.448275862068968
+1379,Divya Malhotra,Backend Developer,Platform,Noida,B.Sc,1361639,8,9,1,39,"CSS, GraphQL, Kubernetes, NoSQL, Postgres",OCI Certified,1.0,93.96551724137932
+1380,Ritika Chaudhary,Frontend Developer,Platform,Noida,M.S.,1261994,1,8,5,26,"Bootstrap, CSS, Django, Java, MongoDB",Kubernetes Cert,0.93,54.31034482758621
+1381,Sanya Mehta,iOS Developer,Engineering,Pune,M.S.,1010527,18,7,2,32,"Angular, Bootstrap, CSS, Docker, Flask, GraphQL, JavaScript, Jest",None,0.81,80.17241379310347
+1382,Aarav Bhat,Android Developer,Data,Delhi,BCA,953963,2,5,4,29,"Bootstrap, GCP, NumPy, REST",Scrum Master,0.7,30.172413793103445
+1383,Neha Nair,iOS Developer,Research,Remote,B.Tech,988539,2,6,1,34,"Flask, JavaScript, Kubernetes, NumPy, REST, Spring, TensorFlow",Azure Certified,0.76,48.27586206896552
+1384,Ritika Iyer,Data Engineer,QA,Chennai,B.Tech,1076583,3,6,1,41,"Bootstrap, Flask, Python, TensorFlow",Kubernetes Cert,0.68,49.13793103448277
+1385,Karan Reddy,Data Engineer,QA,Hyderabad,B.E.,811165,3,7,2,35,"Bootstrap, Jest, Kubernetes, NumPy, Postgres, Selenium, Spring",Kubernetes Cert,0.85,60.34482758620689
+1386,Neha Patel,Data Engineer,Mobile,Kolkata,M.S.,1455321,1,9,3,32,"ElasticSearch, Jest, Kubernetes, REST, Redis",Scrum Master,0.79,54.31034482758621
+1387,Neha Mehta,Technical Lead,Engineering,Chennai,M.S.,950083,1,6,5,26,"AWS, CSS, Django, GraphQL, PyTorch",Scrum Master,0.45,6.034482758620698
+1388,Simran Shah,Product Engineer,Infrastructure,Bangalore,B.E.,1116335,1,8,4,29,"AWS, Docker, Jest, Microservices, Node.js, Python, SQL",AWS Certified,0.83,49.999999999999986
+1389,Aditya Kapoor,Fullstack Developer,QA,Hyderabad,B.Sc,1121311,0,6,6,22,"Bootstrap, PyTorch, Selenium, TensorFlow",Kubernetes Cert,1.0,46.551724137931046
+1390,Ritika Verma,Backend Developer,Infrastructure,Gurgaon,M.S.,1288687,1,5,2,33,"Bootstrap, JavaScript, MongoDB, Selenium",Scrum Master,0.66,31.896551724137936
+1391,Ritika Bose,Android Developer,Infrastructure,Chennai,B.Sc,985486,1,6,3,28,"Docker, ElasticSearch, JavaScript, NoSQL, Python",AWS Certified,0.93,52.58620689655173
+1392,Shivam Chopra,QA Engineer,Infrastructure,Noida,M.S.,1571471,3,6,2,33,"Angular, CI/CD, ElasticSearch, JavaScript, Microservices, MongoDB, Python, SQL",Scrum Master,0.75,46.55172413793103
+1393,Simran Chaudhary,QA Engineer,QA,Mumbai,B.E.,1361676,1,8,2,29,"AWS, Microservices, MongoDB, Node.js, PyTorch, Python, Selenium, Spring",None,0.98,66.37931034482759
+1394,Krish Iyer,Frontend Developer,Mobile,Mumbai,M.Tech,900074,9,6,5,28,"CSS, Kafka, Kubernetes, TensorFlow",None,0.93,62.931034482758626
+1395,Divya Kaur,QA Engineer,Research,Gurgaon,MCA,1655666,4,9,4,27,"Flask, Java, JavaScript, MongoDB, REST, Spring, TypeScript",Scrum Master,0.82,56.03448275862068
+1396,Siddharth Kaur,QA Engineer,Data,Delhi,B.Sc,1239426,1,7,3,29,"Docker, ElasticSearch, GraphQL, JavaScript, Kubernetes, MongoDB, Python, SQL",Scrum Master,0.91,55.172413793103445
+1397,Ananya Singh,Android Developer,Platform,Gurgaon,M.Tech,1063878,8,6,4,33,"AWS, CI/CD, ElasticSearch, GraphQL, Postgres, REST",GCP Certified,0.9,64.6551724137931
+1398,Divya Patel,Fullstack Developer,Infrastructure,Chennai,BCA,1075142,5,6,2,29,"AWS, Flask, GCP, MongoDB, Pandas, REST",None,0.84,54.31034482758621
+1399,Priya Mehta,Frontend Developer,Engineering,Hyderabad,MCA,771800,6,5,2,29,"Docker, JavaScript, Jest, NoSQL, Postgres, Python, REST",None,0.64,35.34482758620689
+1400,Shivam Malhotra,Backend Developer,Research,Kolkata,M.Tech,989182,0,6,5,25,"AWS, Docker, GCP, Kubernetes, PyTorch, React, Spring",None,0.93,44.827586206896555
+1401,Vivaan Bose,QA Engineer,Data,Pune,M.S.,752319,3,4,4,26,"Bootstrap, Microservices, Python, TypeScript",AWS Certified,0.81,35.344827586206904
+1402,Karan Chopra,iOS Developer,Engineering,Delhi,M.Tech,873504,0,5,2,36,"Bootstrap, Docker, Flask, Jest, Kubernetes, NoSQL, Postgres, Spring",Azure Certified,0.85,49.13793103448274
+1403,Arjun Malhotra,Data Engineer,Platform,Noida,MCA,1208341,8,5,1,39,"CI/CD, ElasticSearch, GCP, Node.js, PyTorch, Selenium",GCP Certified,0.77,60.34482758620689
+1404,Ankita Kaur,Frontend Developer,Infrastructure,Mumbai,BCA,871380,10,7,2,34,"MongoDB, NumPy, REST, SQL, TensorFlow",Scrum Master,0.98,82.75862068965517
+1405,Aarav Gupta,Data Engineer,Data,Pune,BCA,1433222,4,8,2,31,"CI/CD, HTML, Java, Jest, NumPy, Selenium, Spring, TypeScript",OCI Certified,0.82,59.48275862068964
+1406,Krish Gupta,Software Engineer,Platform,Mumbai,M.S.,1390634,2,6,5,20,"ElasticSearch, GraphQL, Kafka, Kubernetes",Azure Certified,1.0,50.00000000000001
+1407,Simran Iyer,DevOps Engineer,QA,Bangalore,M.S.,1069254,8,8,2,32,"MongoDB, Postgres, Redis, Selenium",Azure Certified,0.84,68.96551724137929
+1408,Ananya Bose,Machine Learning Engineer,Research,Gurgaon,B.Tech,1181201,1,5,2,37,"Microservices, Node.js, NumPy, PyTorch, SQL, Selenium, TypeScript",Azure Certified,0.56,26.724137931034473
+1409,Sanya Shah,iOS Developer,Data,Hyderabad,B.Tech,835321,0,6,4,26,"CI/CD, GCP, GraphQL, Selenium, TypeScript",None,0.83,38.79310344827584
+1410,Neha Kapoor,Machine Learning Engineer,Research,Delhi,MCA,1163187,3,7,1,37,"Angular, Bootstrap, Kafka, Node.js, NumPy, Pandas, Python, REST",Kubernetes Cert,1.0,76.72413793103449
+1411,Siddharth Kapoor,Product Engineer,Infrastructure,Hyderabad,B.E.,1380635,0,8,1,42,"Angular, Django, PyTorch, REST, React",AWS Certified,1.0,79.31034482758619
+1412,Neha Bose,Frontend Developer,Engineering,Mumbai,B.Sc,1317779,1,9,2,38,"Docker, GCP, Jest, Node.js, TensorFlow",Kubernetes Cert,0.51,37.06896551724137
+1413,Rahul Das,Technical Lead,Platform,Pune,B.Sc,941884,0,7,2,29,"Java, JavaScript, REST, Redis, TypeScript",OCI Certified,0.75,41.37931034482759
+1414,Simran Kapoor,Android Developer,Data,Pune,MCA,1324793,7,6,1,34,"CI/CD, CSS, Kubernetes, Microservices, NumPy, Postgres, SQL, TypeScript",Azure Certified,0.61,43.96551724137932
+1415,Divya Iyer,Fullstack Developer,Research,Hyderabad,M.S.,780865,5,6,1,37,"Angular, ElasticSearch, Kubernetes, Pandas, Python, SQL",AWS Certified,0.7,50.86206896551725
+1416,Pooja Mehta,QA Engineer,QA,Gurgaon,B.Sc,813070,0,7,4,28,"HTML, Jest, Python, REST",Scrum Master,0.72,34.48275862068965
+1417,Sanya Joshi,iOS Developer,Platform,Bangalore,B.Sc,1267709,2,8,1,42,"Bootstrap, Flask, MongoDB, Node.js, NumPy, Pandas",Kubernetes Cert,0.82,67.24137931034483
+1418,Neha Chopra,Fullstack Developer,QA,Hyderabad,M.S.,1248173,2,7,1,38,"Bootstrap, CI/CD, MongoDB, Pandas, Selenium",Scrum Master,1.0,75.86206896551724
+1419,Aditya Gupta,Backend Developer,QA,Hyderabad,MCA,1220911,0,8,3,33,"Angular, CI/CD, Django, HTML, Kafka, NoSQL, Python",AWS Certified,1.0,68.10344827586206
+1420,Simran Sharma,Backend Developer,Engineering,Mumbai,M.Tech,731594,1,9,1,37,"GCP, Kafka, Node.js, Python, SQL",AWS Certified,0.97,77.58620689655172
+1421,Divya Patel,QA Engineer,Data,Mumbai,BCA,1585979,0,6,2,38,"ElasticSearch, HTML, JavaScript, Microservices, NoSQL, Pandas, TensorFlow",GCP Certified,0.74,44.827586206896555
+1422,Vivaan Kapoor,Data Engineer,Engineering,Kolkata,M.S.,745659,2,7,6,25,"Flask, Kubernetes, MongoDB, Python, TensorFlow",Scrum Master,0.72,31.89655172413792
+1423,Siddharth Chopra,Machine Learning Engineer,Platform,Bangalore,B.E.,1121024,1,6,2,36,"AWS, Django, GraphQL, MongoDB, NoSQL, REST, SQL",GCP Certified,0.48,22.413793103448267
+1424,Vivaan Iyer,Android Developer,Engineering,Mumbai,M.S.,1130361,1,8,4,27,"Django, ElasticSearch, GraphQL, MongoDB, NumPy, React",AWS Certified,0.78,43.96551724137932
+1425,Siddharth Bhat,QA Engineer,Engineering,Pune,BCA,1260898,6,9,3,28,"Docker, Flask, Java, PyTorch, Python, Selenium",Scrum Master,0.83,62.931034482758626
+1426,Divya Shah,Backend Developer,QA,Hyderabad,B.E.,1592404,5,6,3,36,"GraphQL, HTML, Node.js, React, Redis",Kubernetes Cert,0.77,52.586206896551715
+1427,Rohan Iyer,Frontend Developer,Platform,Gurgaon,B.E.,790726,2,6,0,39,"Bootstrap, HTML, Kafka, MongoDB, Python, Redis",Azure Certified,0.71,50.00000000000001
+1428,Rohan Kapoor,Software Engineer,Data,Gurgaon,B.Sc,1335181,2,5,1,40,"Bootstrap, CI/CD, HTML, MongoDB, NoSQL, Postgres",Kubernetes Cert,0.9,62.06896551724138
+1429,Isha Kapoor,iOS Developer,Research,Kolkata,B.E.,1460097,4,8,0,37,"Bootstrap, Kafka, SQL, Selenium",Scrum Master,0.72,59.48275862068964
+1430,Shivam Iyer,QA Engineer,Data,Bangalore,BCA,860199,1,7,0,39,"Bootstrap, CSS, Java, Jest, NumPy, Postgres, REST, TensorFlow",GCP Certified,0.78,57.758620689655174
+1431,Ananya Singh,Technical Lead,Mobile,Noida,B.E.,1282078,1,6,0,36,"AWS, HTML, NoSQL, REST, React, SQL, Selenium, TypeScript",AWS Certified,0.66,41.37931034482759
+1432,Pooja Singh,Software Engineer,Research,Pune,B.E.,627193,0,9,1,42,"Django, HTML, JavaScript, MongoDB",None,0.79,64.65517241379311
+1433,Neha Malhotra,Android Developer,Mobile,Remote,M.Tech,1188729,3,7,3,32,"Angular, ElasticSearch, GCP, Python",GCP Certified,0.79,50.86206896551724
+1434,Divya Singh,Machine Learning Engineer,Research,Bangalore,M.Tech,1211877,1,6,1,42,"Bootstrap, ElasticSearch, Java, Jest, Kubernetes, Pandas, React, Spring",Kubernetes Cert,0.71,49.13793103448276
+1435,Aditya Joshi,Frontend Developer,Platform,Kolkata,B.Tech,1396512,1,7,2,38,"Bootstrap, GCP, MongoDB, TensorFlow",Kubernetes Cert,0.67,43.9655172413793
+1436,Siddharth Chaudhary,Technical Lead,Platform,Kolkata,MCA,1452451,4,7,4,27,"AWS, Django, GCP, GraphQL, HTML, Pandas, REST, Redis",AWS Certified,0.89,55.172413793103445
+1437,Arjun Gupta,Android Developer,Data,Kolkata,M.Tech,1414296,1,6,3,29,"ElasticSearch, Kafka, Pandas, Redis, TypeScript",Scrum Master,0.7,33.62068965517241
+1438,Sanya Reddy,iOS Developer,Platform,Remote,B.Sc,667199,5,8,3,29,"ElasticSearch, Kafka, Kubernetes, PyTorch, TensorFlow",AWS Certified,0.93,67.24137931034484
+1439,Vivaan Joshi,iOS Developer,Engineering,Kolkata,B.E.,1302152,5,7,1,38,"Django, GCP, Jest, NoSQL, NumPy, Python",AWS Certified,0.63,49.13793103448276
+1440,Shivam Iyer,Android Developer,Mobile,Remote,B.Sc,965940,3,9,1,41,"Django, JavaScript, Microservices, Redis, SQL",GCP Certified,0.84,73.27586206896554
+1441,Shivam Nair,iOS Developer,Platform,Chennai,M.Tech,314077,0,6,5,29,"AWS, ElasticSearch, JavaScript, Node.js, PyTorch, REST",Azure Certified,0.64,23.275862068965523
+1442,Divya Gupta,Machine Learning Engineer,Research,Remote,BCA,649178,2,6,5,23,"JavaScript, Jest, Node.js, TensorFlow",Scrum Master,0.88,42.24137931034484
+1443,Vivaan Reddy,QA Engineer,Research,Noida,M.S.,1928785,1,6,3,35,"GCP, Python, React, TensorFlow",Azure Certified,0.31,5.17241379310346
+1444,Pooja Verma,QA Engineer,Mobile,Remote,B.E.,1470120,1,8,5,25,"CSS, ElasticSearch, GCP, GraphQL, Java, SQL",OCI Certified,0.9,50.86206896551724
+1445,Isha Shah,iOS Developer,Mobile,Hyderabad,B.E.,1183366,1,8,2,37,"Angular, Docker, JavaScript, NoSQL, PyTorch, SQL, Selenium",None,1.0,75.00000000000001
+1446,Vivaan Iyer,Data Engineer,QA,Hyderabad,M.S.,945945,2,8,3,34,"CI/CD, CSS, Django, Docker, MongoDB, NumPy, REST, Spring",Kubernetes Cert,0.64,41.37931034482759
+1447,Ankita Patel,Android Developer,Mobile,Kolkata,B.E.,1773426,2,6,2,33,"Angular, CI/CD, Node.js, NumPy, TypeScript",AWS Certified,0.67,37.93103448275862
+1448,Sanya Bhat,QA Engineer,QA,Chennai,M.Tech,1686658,2,9,0,39,"CSS, Java, Jest, NoSQL, Pandas, Postgres",Scrum Master,0.55,46.55172413793103
+1449,Isha Shah,Backend Developer,Data,Bangalore,BCA,1517619,7,6,3,29,"ElasticSearch, Flask, MongoDB, Node.js, SQL",Kubernetes Cert,0.76,49.13793103448276
+1450,Vivaan Kaur,iOS Developer,Platform,Mumbai,B.Tech,722357,5,8,3,36,"Docker, Flask, Jest, Kafka, NoSQL, Python",GCP Certified,0.77,59.48275862068965
+1451,Simran Patel,Fullstack Developer,Mobile,Kolkata,BCA,1363082,0,6,3,26,"Java, Kafka, MongoDB, REST, SQL, Selenium",Kubernetes Cert,0.79,37.06896551724138
+1452,Pooja Verma,DevOps Engineer,Platform,Bangalore,M.Tech,971943,2,7,2,29,"Angular, CI/CD, Microservices, Python, React",OCI Certified,0.63,34.48275862068965
+1453,Shivam Nair,Frontend Developer,Engineering,Mumbai,BCA,1253409,0,9,3,33,"Django, Docker, GCP, Kafka, NoSQL, NumPy, TensorFlow",None,0.83,56.89655172413792
+1454,Simran Singh,Backend Developer,Platform,Kolkata,M.S.,1115134,0,6,2,34,"Docker, HTML, Java, JavaScript, Kubernetes, Microservices, NoSQL, SQL",OCI Certified,0.99,62.931034482758626
+1455,Arjun Sharma,QA Engineer,Infrastructure,Delhi,M.Tech,1301407,1,6,3,28,"CI/CD, CSS, Docker, Java, PyTorch, TypeScript",Azure Certified,0.56,20.689655172413794
+1456,Neha Sharma,Android Developer,QA,Chennai,B.E.,1452849,0,8,3,28,"ElasticSearch, Kubernetes, MongoDB, Node.js, PyTorch, Spring",Kubernetes Cert,0.91,56.03448275862068
+1457,Ritika Kaur,Data Engineer,Platform,Remote,B.E.,1631834,1,10,2,38,"Angular, CI/CD, Django, GraphQL, Jest, Kafka, TypeScript",GCP Certified,0.65,52.586206896551715
+1458,Ankita Iyer,Technical Lead,Research,Chennai,BCA,658024,1,7,5,26,"Bootstrap, Jest, NumPy, SQL, Spring",Kubernetes Cert,0.9,48.27586206896552
+1459,Ankita Gupta,QA Engineer,Engineering,Kolkata,B.Sc,818877,5,7,2,38,"Java, Postgres, SQL, TypeScript",Scrum Master,0.71,54.31034482758619
+1460,Ananya Bhat,Data Engineer,QA,Gurgaon,MCA,868909,7,7,0,41,"Angular, Django, MongoDB, Node.js, Python, SQL",Scrum Master,0.6,54.31034482758621
+1461,Ritika Shah,DevOps Engineer,Mobile,Remote,B.Sc,1155309,4,5,1,39,"GCP, Java, Node.js, REST, Redis",GCP Certified,0.92,66.3793103448276
+1462,Pooja Shah,Machine Learning Engineer,Infrastructure,Delhi,B.E.,1045512,10,8,4,31,"Django, Flask, HTML, Java, Node.js, REST, Spring",OCI Certified,0.72,57.75862068965515
+1463,Aarav Kapoor,Data Engineer,Platform,Chennai,BCA,1097728,3,7,0,37,"Angular, HTML, Kafka, Postgres, TypeScript",Scrum Master,0.85,65.51724137931035
+1464,Isha Kaur,Data Engineer,Data,Bangalore,B.Sc,1199656,0,6,3,34,"GCP, JavaScript, Kafka, Kubernetes, PyTorch, React, TypeScript",Scrum Master,0.53,21.551724137931046
+1465,Vivaan Kaur,Android Developer,Mobile,Noida,MCA,793366,3,9,0,41,"Bootstrap, MongoDB, React, TensorFlow",Azure Certified,0.68,61.20689655172414
+1466,Isha Chopra,DevOps Engineer,Research,Mumbai,M.S.,1674510,0,6,1,40,"Bootstrap, NumPy, React, SQL, Selenium",OCI Certified,1.0,70.68965517241378
+1467,Isha Singh,Product Engineer,Mobile,Hyderabad,B.E.,1742159,2,6,1,32,"GCP, Microservices, NoSQL, Node.js, Pandas, PyTorch, Python, Spring",None,0.75,45.6896551724138
+1468,Karan Das,Frontend Developer,QA,Delhi,MCA,1650195,1,8,0,36,"Bootstrap, ElasticSearch, Flask, Kafka, Node.js",Kubernetes Cert,0.83,62.931034482758605
+1469,Neha Bose,iOS Developer,Platform,Noida,B.Sc,1508096,1,7,0,45,"GraphQL, HTML, JavaScript, Microservices, NoSQL, NumPy, Selenium",GCP Certified,1.0,81.89655172413792
+1470,Arjun Mehta,Backend Developer,Research,Bangalore,M.S.,872661,1,7,5,29,"Jest, Kafka, Node.js, React, Selenium, TypeScript",GCP Certified,0.84,45.6896551724138
+1471,Karan Sharma,iOS Developer,Research,Mumbai,B.Tech,300000,1,8,3,26,"Bootstrap, Docker, Flask, HTML, Jest, Kafka, Python",GCP Certified,0.7,37.93103448275862
+1472,Ankita Malhotra,Machine Learning Engineer,Data,Gurgaon,B.Tech,905063,3,5,4,32,"CI/CD, Docker, HTML, Jest, NumPy, Pandas, Python, TypeScript",GCP Certified,1.0,60.34482758620689
+1473,Vivaan Gupta,Backend Developer,Engineering,Delhi,B.Tech,1174986,9,6,3,28,"GraphQL, JavaScript, Jest, Node.js, React",AWS Certified,0.74,50.00000000000001
+1474,Sanya Gupta,Backend Developer,Infrastructure,Mumbai,B.Sc,1146774,4,5,3,36,"CSS, ElasticSearch, Java, JavaScript, Microservices, Postgres, SQL, TensorFlow",Azure Certified,0.53,26.724137931034488
+1475,Priya Chopra,Frontend Developer,Research,Noida,BCA,1519182,5,9,5,22,"Angular, Bootstrap, NumPy, REST, React, Redis, Selenium, Spring",Azure Certified,0.83,52.5862068965517
+1476,Pooja Bhat,Android Developer,Platform,Chennai,B.Sc,1530878,1,9,0,41,"Bootstrap, Django, Node.js, REST",Kubernetes Cert,0.7,59.48275862068965
+1477,Ritika Joshi,Data Engineer,Mobile,Delhi,M.Tech,1474528,5,4,1,34,"Docker, ElasticSearch, HTML, Kubernetes, NumPy, Redis, Spring, TypeScript",Scrum Master,0.91,59.48275862068965
+1478,Arjun Shah,Fullstack Developer,Infrastructure,Mumbai,B.E.,1044845,1,6,0,40,"AWS, Flask, Java, Microservices",Scrum Master,0.36,18.965517241379303
+1479,Ritika Bhat,Data Engineer,Engineering,Delhi,M.Tech,1815892,1,7,1,39,"AWS, JavaScript, MongoDB, PyTorch, Python, Redis, SQL, Spring",Azure Certified,0.83,60.34482758620689
+1480,Rahul Bose,Android Developer,QA,Bangalore,B.Tech,1708717,6,9,2,35,"Django, GraphQL, Java, Node.js, Pandas, PyTorch",Azure Certified,1.0,85.3448275862069
+1481,Ananya Malhotra,Machine Learning Engineer,Research,Bangalore,MCA,1378919,0,6,1,41,"GraphQL, Microservices, Pandas, REST, SQL",Kubernetes Cert,0.77,51.7241379310345
+1482,Vivaan Bose,DevOps Engineer,Mobile,Delhi,B.Sc,1435497,1,8,0,40,"AWS, GraphQL, Java, Kafka, Microservices, Postgres, PyTorch, REST",AWS Certified,0.85,68.10344827586206
+1483,Rohan Kapoor,Software Engineer,QA,Noida,MCA,1239306,0,8,0,43,"CSS, Jest, NoSQL, NumPy, Postgres, PyTorch, React, TensorFlow",Azure Certified,0.48,37.06896551724138
+1484,Ananya Verma,DevOps Engineer,Data,Hyderabad,M.S.,1152319,4,6,3,34,"AWS, Bootstrap, ElasticSearch, Jest, Kafka",Azure Certified,1.0,68.9655172413793
+1485,Arjun Kumar,QA Engineer,Research,Bangalore,BCA,1399478,1,5,1,33,"CSS, Java, Kafka, Node.js, REST",None,0.72,38.79310344827586
+1486,Rohan Patel,QA Engineer,Data,Kolkata,M.Tech,1353450,2,9,1,33,"CSS, Django, ElasticSearch, Java, SQL, Spring",OCI Certified,1.0,78.44827586206897
+1487,Neha Bose,Frontend Developer,Engineering,Mumbai,B.Tech,1581125,6,8,6,19,"GraphQL, Java, Kafka, Kubernetes, Microservices, Node.js, React, TensorFlow",Kubernetes Cert,0.63,29.310344827586224
+1488,Rahul Sharma,iOS Developer,Research,Mumbai,MCA,1566246,2,6,4,32,"CI/CD, Kafka, MongoDB, Selenium, TypeScript",Kubernetes Cert,0.85,49.13793103448274
+1489,Krish Kapoor,Backend Developer,Platform,Mumbai,B.Tech,1435290,2,8,1,34,"AWS, CSS, Django, Redis",None,1.0,75.86206896551724
+1490,Ananya Kapoor,Backend Developer,Infrastructure,Mumbai,B.Sc,899681,1,7,5,26,"Angular, GraphQL, Jest, Kafka, NoSQL",AWS Certified,0.41,6.034482758620682
+1491,Rohan Sharma,Machine Learning Engineer,Infrastructure,Bangalore,B.Tech,1043580,1,9,1,38,"CSS, Jest, MongoDB, Node.js, NumPy, React, Redis",None,1.0,81.0344827586207
+1492,Isha Shah,QA Engineer,QA,Delhi,BCA,881006,0,6,3,36,"Django, Jest, Microservices, Node.js, Spring",Kubernetes Cert,0.93,57.758620689655174
+1493,Isha Malhotra,Fullstack Developer,Platform,Pune,BCA,876787,3,8,2,33,"ElasticSearch, GraphQL, HTML, Kubernetes, NoSQL, Node.js, PyTorch, Redis",Scrum Master,0.92,68.10344827586206
+1494,Ananya Das,Machine Learning Engineer,Engineering,Hyderabad,M.S.,921488,1,8,3,36,"Microservices, NoSQL, REST, Redis",Azure Certified,0.9,63.79310344827586
+1495,Priya Shah,iOS Developer,Platform,Kolkata,B.Tech,1236923,1,6,3,26,"Angular, CI/CD, Django, GCP, PyTorch, SQL, TypeScript",OCI Certified,0.79,38.79310344827587
+1496,Ankita Bhat,Fullstack Developer,Mobile,Chennai,B.Sc,1268722,7,8,5,22,"AWS, Angular, GraphQL, REST, TensorFlow",Scrum Master,0.74,44.827586206896555
+1497,Ankita Bhat,Data Engineer,Mobile,Delhi,B.Sc,1078990,5,6,2,37,"Angular, Flask, HTML, Microservices, Postgres",Azure Certified,0.5,31.896551724137936
+1498,Simran Kumar,Machine Learning Engineer,Platform,Mumbai,M.S.,1221376,1,5,3,33,"Django, HTML, TensorFlow, TypeScript",Kubernetes Cert,0.96,56.03448275862068
+1499,Vivaan Singh,Fullstack Developer,Research,Pune,B.Sc,1381236,8,7,6,24,"Kafka, SQL, Selenium, TensorFlow",None,0.95,61.20689655172414
+1500,Ankita Das,Fullstack Developer,Platform,Delhi,M.Tech,777569,0,8,1,36,"Bootstrap, JavaScript, Jest, Kubernetes, NumPy, Python, Redis, Selenium",OCI Certified,1.0,74.13793103448276
+1501,Rohan Joshi,Software Engineer,QA,Kolkata,B.Tech,1200205,1,8,2,36,"Flask, Java, Redis, Selenium",GCP Certified,0.92,67.24137931034484
+1502,Sanya Chaudhary,Data Engineer,Infrastructure,Delhi,MCA,737899,7,5,1,35,"CI/CD, Django, GraphQL, Node.js, NumPy, PyTorch, TensorFlow",OCI Certified,0.65,44.827586206896555
+1503,Rohan Patel,Android Developer,Data,Delhi,BCA,1114753,3,8,2,30,"Angular, JavaScript, Python, SQL, Selenium, Spring, TypeScript",AWS Certified,1.0,72.41379310344828
+1504,Rohan Malhotra,Technical Lead,Data,Pune,B.Tech,1005916,3,6,1,39,"CSS, Microservices, NumPy, Pandas, Postgres",OCI Certified,0.87,63.79310344827586
+1505,Simran Das,Data Engineer,QA,Chennai,B.E.,1360124,1,6,2,29,"AWS, Docker, HTML, Kubernetes, Python, Redis, Spring",None,0.86,49.13793103448276
+1506,Ankita Nair,Software Engineer,Engineering,Remote,M.S.,1193093,0,6,1,35,"Angular, ElasticSearch, Flask, Microservices, Node.js, REST",None,1.0,66.37931034482759
+1507,Shivam Das,Android Developer,Engineering,Kolkata,B.Sc,926141,8,7,2,34,"Angular, Docker, Jest, REST",None,0.86,68.96551724137929
+1508,Vivaan Reddy,Android Developer,Research,Bangalore,M.S.,859681,2,8,2,30,"AWS, CSS, GraphQL, Postgres, PyTorch, REST, SQL",Azure Certified,0.8,53.44827586206895
+1509,Arjun Verma,Product Engineer,Mobile,Mumbai,MCA,1160963,0,6,7,19,"GraphQL, HTML, Java, Kubernetes, Node.js, REST, React, Selenium",Azure Certified,0.91,34.48275862068965
+1510,Ritika Sharma,DevOps Engineer,Data,Hyderabad,B.E.,1366009,1,7,0,45,"Angular, Bootstrap, CI/CD, Jest, Kafka, Kubernetes, NumPy, Spring",AWS Certified,0.88,71.55172413793103
+1511,Krish Shah,Backend Developer,Mobile,Pune,MCA,1493511,3,9,6,17,"Docker, ElasticSearch, Flask, Kubernetes, Postgres, PyTorch, Redis",GCP Certified,0.52,16.379310344827605
+1512,Pooja Verma,QA Engineer,Engineering,Pune,B.Sc,965713,3,6,2,39,"Docker, HTML, Kafka, Pandas, TensorFlow",Kubernetes Cert,0.96,69.82758620689656
+1513,Arjun Patel,iOS Developer,Infrastructure,Delhi,B.Tech,1635785,1,8,1,35,"Docker, Flask, GCP, MongoDB, NoSQL, React",Azure Certified,0.69,48.27586206896552
+1514,Divya Iyer,Fullstack Developer,Data,Noida,M.S.,1327220,1,7,2,34,"Bootstrap, Microservices, NumPy, PyTorch, Python, SQL",OCI Certified,0.72,44.827586206896534
+1515,Neha Reddy,Android Developer,Infrastructure,Bangalore,B.Tech,1187718,0,6,3,29,"CI/CD, Microservices, NoSQL, NumPy, PyTorch, React, Redis, Spring",Azure Certified,0.78,38.79310344827587
+1516,Ankita Chopra,Machine Learning Engineer,Research,Chennai,MCA,1619785,1,7,4,24,"CI/CD, CSS, GraphQL, Kafka, MongoDB, NoSQL, Postgres, Python",Scrum Master,0.83,42.24137931034481
+1517,Aditya Sharma,Data Engineer,Engineering,Kolkata,B.Tech,1362627,4,8,1,34,"Django, GCP, Java, Python, Redis, Selenium, Spring",None,0.73,56.03448275862068
+1518,Aditya Verma,iOS Developer,Infrastructure,Chennai,B.Sc,777268,0,7,4,23,"Flask, Node.js, Spring, TensorFlow",Kubernetes Cert,0.85,41.37931034482759
+1519,Ankita Gupta,Frontend Developer,Infrastructure,Pune,M.Tech,1250418,2,7,2,38,"Angular, Bootstrap, HTML, Microservices, Spring, TensorFlow",OCI Certified,0.64,43.103448275862064
+1520,Ananya Kapoor,Backend Developer,Research,Hyderabad,M.Tech,1168054,5,6,3,27,"GraphQL, Kubernetes, React, TensorFlow",Scrum Master,0.77,44.827586206896555
+1521,Shivam Gupta,Machine Learning Engineer,Engineering,Gurgaon,B.E.,1651264,13,7,5,24,"AWS, Angular, CI/CD, HTML, Postgres, PyTorch, React, TensorFlow",GCP Certified,0.8,58.62068965517242
+1522,Ritika Kumar,Machine Learning Engineer,Infrastructure,Mumbai,B.Tech,1541673,1,7,2,32,"Angular, Java, Kafka, Kubernetes",OCI Certified,0.64,36.20689655172414
+1523,Rohan Sharma,Software Engineer,Infrastructure,Noida,M.Tech,963046,1,5,4,31,"CSS, GraphQL, HTML, PyTorch, Python",OCI Certified,0.87,44.827586206896534
+1524,Sanya Chopra,Product Engineer,Research,Hyderabad,B.Sc,1567578,1,7,7,22,"Flask, Python, REST, Redis, TensorFlow",Azure Certified,0.87,38.79310344827586
+1525,Rahul Chopra,Software Engineer,Infrastructure,Hyderabad,M.Tech,1059653,2,8,2,29,"Django, GraphQL, Microservices, Node.js, REST, SQL, TensorFlow, TypeScript",GCP Certified,0.74,47.41379310344827
+1526,Simran Verma,Data Engineer,Infrastructure,Chennai,M.Tech,1202768,0,9,7,16,"Django, GCP, HTML, JavaScript, Kafka, Redis, TypeScript",Kubernetes Cert,0.66,20.689655172413794
+1527,Karan Mehta,Software Engineer,Platform,Bangalore,MCA,1384188,2,8,2,38,"CI/CD, Docker, HTML, JavaScript, PyTorch, SQL, TensorFlow, TypeScript",OCI Certified,0.95,73.27586206896551
+1528,Simran Das,Software Engineer,Engineering,Delhi,B.Tech,1133807,2,6,0,44,"CSS, Django, Flask, JavaScript, PyTorch, TypeScript",Kubernetes Cert,0.7,53.44827586206897
+1529,Pooja Das,Technical Lead,Research,Kolkata,B.E.,952719,10,8,2,30,"Angular, CSS, Docker, ElasticSearch, GCP, JavaScript, Python, TypeScript",OCI Certified,0.96,81.03448275862067
+1530,Ritika Verma,Fullstack Developer,Infrastructure,Pune,B.Tech,1080030,12,7,3,32,"Django, Jest, Microservices, NoSQL, React",Scrum Master,0.68,56.89655172413795
+1531,Ankita Singh,Frontend Developer,Engineering,Gurgaon,B.Sc,1830294,2,8,8,15,"AWS, Angular, ElasticSearch, GCP, MongoDB, NoSQL, Pandas, PyTorch",Kubernetes Cert,0.88,37.06896551724138

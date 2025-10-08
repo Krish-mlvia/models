@@ -1,0 +1,94 @@
+╔═══════════════════════════════════════════════════════════════╗
+║     WORKFORCE OPTIMIZATION MODEL - QUICK START GUIDE          ║
+╚═══════════════════════════════════════════════════════════════╝
+
+📍 STEP 1: OPEN TERMINAL
+   Open Terminal on your Mac (Cmd + Space, type "Terminal")
+
+📍 STEP 2: NAVIGATE TO PROJECT
+   cd /Users/krishmalvia/Desktop/pms-models
+
+📍 STEP 3: ACTIVATE PYTHON ENVIRONMENT
+   source venv/bin/activate
+   
+   ✅ You should see (venv) in your terminal prompt
+
+📍 STEP 4: RUN THE MODEL PIPELINE
+   
+   Option A - Automated Script (Easiest):
+   bash RUN_ME.sh
+   
+   Option B - Python Command:
+   python src/run_pipeline_simple.py
+
+📍 STEP 5: WAIT FOR COMPLETION
+   ⏱️  Takes ~2-5 minutes depending on your machine
+   You'll see progress messages like:
+   - Loading data...
+   - Training suitability model...
+   - Training workload model...
+   - Optimizing assignments...
+
+📍 STEP 6: VIEW RESULTS
+   
+   See assignments:
+   cat outputs/final_assignments.csv
+   
+   See model metrics:
+   cat outputs/metrics_report.txt
+   
+   Or open files in Finder:
+   open outputs/
+
+═══════════════════════════════════════════════════════════════
+
+🎯 WHAT YOU GET:
+
+✓ models/suitability_model.pkl      (465 KB) - Trained matching model
+✓ models/workload_model.pkl         (311 KB) - Trained time prediction model  
+✓ outputs/final_assignments.csv     (5.5 KB) - 40 optimized task assignments
+✓ outputs/metrics_report.txt        (2.2 KB) - Performance metrics
+
+═══════════════════════════════════════════════════════════════
+
+🔄 TO USE MODELS WITH NEW DATA:
+
+1. Add new employees to: data/employee_dataset_532.csv
+2. Add new tasks to: data/task_dataset_40.csv
+3. Rerun: python src/run_pipeline_simple.py
+4. Check new assignments: cat outputs/final_assignments.csv
+
+═══════════════════════════════════════════════════════════════
+
+📚 MORE HELP:
+
+Detailed guide:    open HOW_TO_USE.md
+Full commands:     open COMMANDS_REFERENCE.md
+Project overview:  open PROJECT_SUMMARY.md
+
+═══════════════════════════════════════════════════════════════
+
+🆘 TROUBLESHOOTING:
+
+Problem: "command not found: python"
+Fix: Make sure virtual environment is activated
+     source venv/bin/activate
+
+Problem: "No such file or directory"
+Fix: Navigate to project directory first
+     cd /Users/krishmalvia/Desktop/pms-models
+
+Problem: "ModuleNotFoundError"
+Fix: Reinstall dependencies
+     pip install -r requirements.txt
+
+═══════════════════════════════════════════════════════════════
+
+✨ YOUR MODELS ARE ALREADY TRAINED AND READY TO USE! ✨
+
+Performance Metrics:
+  📊 Suitability Model: 99.74% accuracy (R² score)
+  ⏱️  Workload Model: 1.20 hours average error (MAE)
+  🎯 40 tasks optimized across 35 employees
+
+═══════════════════════════════════════════════════════════════

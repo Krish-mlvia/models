@@ -1,0 +1,41 @@
+TaskID,TaskName,AssignedEmployeeID,EmployeeName,EmployeeRole,Department,SuitabilityScore,PredictedHours,EstimatedHours,DeadlineDays,Priority,Difficulty,EmployeeExperience,RequiredExperience,EmployeePerformance,EmployeeWorkload,EmployeeAvailability
+5038,Migrate Legacy System,1219,Simran Sharma,Product Engineer,Platform,65.55665774392622,6.783757509181362,8,8,Critical,Hard,8,9,8,0,41
+5019,Create Admin Panel,1440,Shivam Iyer,Android Developer,Mobile,67.50410331807873,12.094704269028764,16,11,Critical,Moderate,3,4,9,1,41
+5014,Enhance Error Handling,1177,Neha Kumar,Backend Developer,Engineering,67.25566347943813,9.019545700276552,8,15,Critical,Very Hard,15,9,8,2,38
+5024,Fix Cross-browser Issues,1044,Aarav Chaudhary,Data Engineer,Data,68.35196981253192,13.094312895140572,12,16,Critical,Very Hard,7,1,8,1,40
+5027,Refactor Backend Code,1042,Aditya Joshi,Fullstack Developer,QA,73.42129376694267,13.07170461296197,14,18,Critical,Very Hard,4,4,9,1,39
+5003,Fix Frontend Bugs,1366,Rahul Chaudhary,Backend Developer,Mobile,65.26553932071764,24.45486170406263,29,25,Critical,Moderate,4,4,9,4,33
+5028,Implement Cache Layer,1486,Rohan Patel,QA Engineer,Data,73.1137259451142,25.208199473087344,27,25,Critical,Very Hard,2,3,9,1,33
+5023,Implement Notification System,1311,Ananya Kaur,Technical Lead,Mobile,64.87048718522504,19.478750810651338,24,26,Critical,Moderate,3,4,7,2,38
+5012,Migrate Legacy System,1340,Rohan Bhat,Frontend Developer,QA,71.88534370407443,17.809106695673677,20,26,Critical,Hard,8,10,8,3,31
+5022,Implement User Authentication,1127,Siddharth Iyer,Fullstack Developer,QA,71.96222174491169,13.252809801297012,22,4,High,Easy,5,2,8,2,39
+5006,Setup CI/CD in Jenkins,1221,Simran Shah,Technical Lead,Engineering,0.0,0.0,22,5,High,Very Hard,9,10,6,2,34
+5034,Implement Notification System,1482,Vivaan Bose,DevOps Engineer,Mobile,65.83271364308865,13.125928772141023,15,7,High,Hard,1,2,8,0,40
+5008,Implement Cache Layer,1177,Neha Kumar,Backend Developer,Platform,73.01846760880449,31.80031916168872,30,8,High,Hard,15,6,8,2,38
+5011,Enhance Logging System,1085,Divya Kumar,Fullstack Developer,Data,63.35943678254086,14.426437121710881,20,9,High,Easy,5,4,7,3,29
+5036,Enhance Security Module,1161,Rohan Kumar,Data Engineer,Engineering,64.21633065796165,11.199896821866925,14,11,High,Moderate,15,10,7,1,33
+5004,Automate Unit Testing,1011,Rahul Bose,iOS Developer,Platform,0.0,0.0,36,13,High,Very Hard,4,3,10,1,34
+5005,Integrate Payment Gateway,1169,Krish Chaudhary,Technical Lead,Infrastructure,64.01487560912784,13.030361494575255,22,14,High,Easy,10,10,9,1,41
+5017,Automate Unit Testing,1100,Ananya Shah,Backend Developer,Mobile,60.22879525015541,9.415858375871974,15,22,High,Easy,7,8,9,2,30
+5029,Add Dark Mode UI,1417,Sanya Joshi,iOS Developer,Platform,61.017550145708356,14.762576672035348,19,26,High,Easy,2,1,8,1,42
+5015,Enhance Security Module,1019,Sanya Malhotra,Machine Learning Engineer,Platform,70.26848833946246,9.518792489731807,10,27,High,Hard,4,2,7,3,32
+5007,Optimize Database Query,1210,Simran Chopra,Data Engineer,Platform,64.44189283891264,28.285119532973116,36,27,High,Moderate,1,2,8,1,39
+5039,Develop Mobile UI,1188,Krish Verma,Technical Lead,Mobile,59.86104189532042,8.503527618401375,13,29,High,Easy,16,10,7,0,42
+5020,Implement Role-based Access,1404,Ankita Kaur,Frontend Developer,Infrastructure,74.72666351590392,14.95352343803467,12,6,Medium,Very Hard,10,4,7,2,34
+5001,Enhance Security Module,1420,Simran Sharma,Backend Developer,Engineering,64.57210109710346,26.36981509074456,27,10,Medium,Hard,1,3,9,1,37
+5025,Add Multi-language Support,1529,Pooja Das,Technical Lead,Research,76.09273963753282,12.082376050733817,19,10,Medium,Easy,10,4,8,2,30
+5032,Improve API Response Time,1011,Rahul Bose,iOS Developer,Platform,0.0,0.0,38,11,Medium,Hard,4,6,10,1,34
+5040,Optimize Model Performance,1188,Krish Verma,Technical Lead,Data,69.95784220239652,14.607315696418244,25,14,Medium,Easy,16,4,7,0,42
+5009,Setup CI/CD Pipeline,1029,Priya Iyer,Data Engineer,Mobile,69.82522682654648,12.802919382750655,20,20,Medium,Moderate,1,3,8,2,38
+5031,Refactor Backend Code,1169,Krish Chaudhary,Technical Lead,Infrastructure,64.32899290756788,11.455467683228266,19,21,Medium,Easy,10,10,9,1,41
+5021,Add Dark Mode UI,1482,Vivaan Bose,DevOps Engineer,Mobile,67.58552923540685,24.643019132094903,35,21,Medium,Moderate,1,1,8,0,40
+5002,Setup CI/CD in Jenkins,1122,Ritika Mehta,QA Engineer,Engineering,69.93845513586002,23.49356933178845,22,4,Low,Very Hard,1,2,8,2,37
+5030,Add Email Verification,1136,Krish Chaudhary,Product Engineer,Research,55.57092170004581,26.877124596829653,21,4,Low,Moderate,4,3,6,4,33
+5018,Optimize Model Performance,1042,Aditya Joshi,Fullstack Developer,QA,75.57998966362373,13.217380437266463,26,10,Low,Easy,4,2,9,1,39
+5037,Implement Search Feature,1001,Karan Kaur,Android Developer,Mobile,0.0,0.0,25,11,Low,Very Hard,0,2,6,2,33
+5026,Refactor Backend Code,1432,Pooja Singh,Software Engineer,Research,64.59982987909875,14.658490452427515,24,17,Low,Easy,0,1,9,1,42
+5016,Implement Search Feature,1051,Ankita Verma,QA Engineer,Mobile,64.58607596909718,17.913785448974913,19,19,Low,Moderate,4,5,8,3,31
+5035,Develop Analytics Dashboard,1106,Priya Sharma,Backend Developer,Research,0.0,0.0,30,22,Low,Hard,10,9,6,1,34
+5033,Optimize Model Performance,1069,Arjun Chaudhary,Data Engineer,Infrastructure,72.4989869090779,16.807090174927637,23,27,Low,Hard,1,1,9,0,42
+5010,Design Landing Page,1379,Divya Malhotra,Backend Developer,Platform,74.46128097397056,25.848555089617115,28,29,Low,Hard,8,4,9,1,39
+5013,Integrate Payment Gateway,1116,Rohan Singh,Backend Developer,Research,65.09178076509285,16.072719747923717,25,30,Low,Easy,2,3,8,1,33
